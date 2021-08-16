@@ -37,8 +37,8 @@ parser.add_argument('--alpha', type=float, default=0.1,
                             help='Teleport strength.')
 parser.add_argument('--delta', type=int, default=8,
                     help='node degree setting in MST-KNN graph')
-parser.add_argument('--base', type=str, default='w2v',
-                    help='base embedding: w2v, glove, fasttext')
+parser.add_argument('--base', type=str, default='google',
+                    help='base embedding: google, glove, fasttext')
 parser.add_argument('--aff', type=str, default='glove',
                     help='affinity info: glove...')
 
