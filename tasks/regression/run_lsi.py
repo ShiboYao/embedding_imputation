@@ -1,21 +1,21 @@
 for delta in 5 10 20
 do
-	echo "python imputation.py w2v glove $delta"
+	echo "python imputation.py google glove $delta"
 	for i in {1..3}
 	do
-		python imputation.py w2v glove $delta $i
+		python imputation.py google glove $delta $i
 	done
 	
-	echo "python imputation.py w2v fast $delta"
+	echo "python imputation.py google fast $delta"
 	for i in {1..3}
 	do
-		python imputation.py w2v fast $delta $i
+		python imputation.py google fast $delta $i
 	done
 	
-	echo "python imputation.py glove w2v $delta"
+	echo "python imputation.py glove google $delta"
 	for i in {1..3}
 	do
-		python imputation.py glove w2v $delta $i
+		python imputation.py glove google $delta $i
 	done
 	
 	echo "python imputation.py glove fast $delta"
@@ -24,10 +24,10 @@ do
 		python imputation.py glove fast $delta $i
 	done
 
-	echo "python imputation.py fast w2v $delta"
+	echo "python imputation.py fast google $delta"
 	for i in {1..3}
 	do
-		python imputation.py fast w2v $delta $i
+		python imputation.py fast google $delta $i
 	done
 	
 	echo "python imputation.py fast glove $delta"

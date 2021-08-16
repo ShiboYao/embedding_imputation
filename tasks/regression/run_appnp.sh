@@ -1,21 +1,21 @@
 for delta in 5 10 20
 do
-        echo "python train.py --base=w2v --aff=glove --delta=$delta"
+        echo "python train.py --base=google --aff=glove --delta=$delta"
         for i in {1..3}
         do
-                python train.py --base=w2v --aff=glove --delta=$delta --seed=$i
+                python train.py --base=google --aff=glove --delta=$delta --seed=$i
         done
 
-        echo "python train.py --base=w2v --aff=fast --delta=$delta"
+        echo "python train.py --base=google --aff=fast --delta=$delta"
         for i in {1..3}
         do
-                python train.py --base=w2v --aff=fast --delta=$delta --seed=$i
+                python train.py --base=google --aff=fast --delta=$delta --seed=$i
         done
 
-        echo "python train.py --base=glove --aff=w2v --delta=$delta"
+        echo "python train.py --base=glove --aff=google --delta=$delta"
         for i in {1..3}
         do
-                python train.py --base=glove --aff=w2v --delta=$delta --seed=$i
+                python train.py --base=glove --aff=google --delta=$delta --seed=$i
         done
 
         echo "python train.py --base=glove --aff=fast --delta=$delta"
@@ -24,10 +24,10 @@ do
                 python train.py --base=glove --aff=fast --delta=$delta --seed=$i
         done
 
-        echo "python train.py --base=fast --aff=w2v --delta=$delta"
+        echo "python train.py --base=fast --aff=google --delta=$delta"
         for i in {1..3}
         do
-                python train.py --base=fast --aff=w2v --delta=$delta --seed=$i
+                python train.py --base=fast --aff=google --delta=$delta --seed=$i
         done
 
         echo "python train.py --base=fast --aff=glove --delta=$delta"
