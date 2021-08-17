@@ -10,14 +10,14 @@ torch
 
 cd tasks/class\_fin
 
-python class\_lsi.py google aff 8
+python class\_lsi.py google aff 8 42
 
 python train.py
 
 
 cd tasks/regression
 
-python imputation.py w2v glove 8
+python imputation.py google glove 8 42
 
 python train.py
 
