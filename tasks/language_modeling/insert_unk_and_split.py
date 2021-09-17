@@ -1,5 +1,6 @@
+### Split the original corpus into train, val, test sets
 ### Replace the words in the corpus that are not in the pretrained embedding set with <unk>
-### Split into train, val, test sets
+### Split again into train, val, test sets with <unk> tokens inserted
 
 import sys
 vocab_path = sys.argv[1]
@@ -23,19 +24,27 @@ def insert_unk_token(line, vocab):
 
 with open(corpus_path, 'r') as f:
     lines = f.readlines()
+
+
+with open('./data/pubmed_original/train.txt', 'w') as f:
+    f.writelines(lines[:8000])
+with open('./data/pubmed_original/valid.txt', 'w') as f:
+    f.writelines(lines[8000:9000])
+with open('./data/pubmed_original/test.txt', 'w') as f:
+    f.writelines(lines[9000:10000])
         
 vocab = read_word_list(vocab_path)
 
 for i,line in enumerate(lines):
     lines[i] = insert_unk_token(line, vocab)
 
-with open('./data/pubmed/train.txt', 'w') as f:
+with open('./data/pubmed_unk/train.txt', 'w') as f:
     for line in lines[:8000]:
         f.write(line + '\n')
-with open('./data/pubmed/valid.txt', 'w') as f:
+with open('./data/pubmed_unk/valid.txt', 'w') as f:
     for line in lines[8000:9000]:
         f.write(line + '\n')
-with open('./data/pubmed/test.txt', 'w') as f:
+with open('./data/pubmed_unk/test.txt', 'w') as f:
     for line in lines[9000:]:
         f.write(line + '\n')
     

@@ -6,6 +6,8 @@ if embed_set == 'glove':
     dic = {"glove": "./pretrained_embeds/glove.6B.100d.txt"}
 elif embed_set == 'bioword': 
     dic = {"bioword":"./pretrained_embeds/BioWordVec_PubMed_MIMICIII_d200.txt"}
+else:
+    raise ValueError('wrong pretrained embedding name')
     
 def read_word_list(path):
     with open(path) as f:
