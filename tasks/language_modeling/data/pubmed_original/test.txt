@@ -1,0 +1,1000 @@
+to evaluate responses to medical therapy in ulcerative colitis , rectal biopsies of patients with active untreated disease , individuals with positive and negative sigmoidoscopic findings treated with salicylazosulfapyridine , prednisone and 6-mercaptopurine , alone and in combinations and noncolitis controls were compared histologically .
+predominant histological observations were analyzed statistically .
+there were fewer crypt abscesses but more mucosal edema after all forms of therapy .
+quantitative histopathological analysis failed to demonstrate that the response to one drug was significantly different from another .
+biochemical and electrophoretic studies of erythrocyte pyridoxine kinase in white and black americans .
+the mean pnk activity in red blood cells from black subjects was only about 40 % of that in whites .
+among 51 whites examined , one was found to have enzyme deficiency .
+the estimated gene frequencies for pnkh ( the common allele in whites which codes for higher enzyme activity ) and pnkl ( the common allele in blacks which codes for lower enzyme activity ) were .35 and .65 , respectively , for black donors , and .81 and .19 , respectively , for white donors , the variant enzyme in persons with enzyme deficiency was associated with an increased rate of degradation in red cells during aging .
+no other biochemical or electrophoretic differences were detected .
+use of the latent image technique to develop and evaluate problem-solving skills .
+this project involved designing , developing and evaluating a simulation module , utilizing the latent image technique .
+the general topic chosen for this simulation was the laboratory characterization of anemias .
+target learner populations included medical technology students , physician assistant students , and pathology residents .
+members of all three groups participated in the evaluation of the module and responded to its use in varied settings .
+review of drug treatment for down's syndrome persons .
+a review of drug treatment for down's syndrome individuals was presented .
+drugs used to modify behavior , as well as drugs used with the goal of affecting cognitive processes , were discussed .
+some observations were offered as to the effectiveness of past and current drugs on down's syndrome and some methodological problems relating to drug studies presented .
+there have not been any drugs that have demonstrated remarkable improvement in the status of down's syndrome individuals that have been widely accepted as effective .
+development of a special electrode for continuous subcutaneous ph measurement in the infant scalp .
+using a combined special glass electrode it is possible to monitor ph ratios and ph variation in the subcutaneous tissue of the infant scalp continuously .
+tests on a normal sample of newborn babies immediately after birth showed a significant correlation between tissue ph and capillary blood ph , with the trend of ph variation being broadly similar in both measurement media .
+rapid infusion of sodium bicarbonate and albumin into high-risk premature infants soon after birth : a controlled , prospective trial .
+we conducted a controlled , prospective trial to evaluate the effectiveness of rapidly infusing sodium bicarbonate ( nahco3 ) and salt-poor albumin into high-risk , premature infants in the first 2 hours of life .
+fifty-three infants , randomized into one of four treatment groups , received 8 ml. per kilogram of a solution containing either ( a ) glucose in water , ( b ) salt-poor albumin , ( c ) nahco3 , or ( d ) a combination of albumin and nahco3 .
+after the initial infusion , the babies received no colloid or alkali solutions until 4 hours of age .
+we managed them supportively with warmth , appropriate oxygen administration , isotonic fluid infusion , and close monitoring .
+among the infants who received alkali , 14 of 26 acquired the respiratory distress syndrome ( rds ) , 11 died , and four had intracranial hemorrhage .
+among babies who received no alkali , rds occurred in 11 of 27 , 5 died , and none had intracranial hemorrhage .
+these results do not support the common practice of rapidly infusing nahco3 into high-risk , premature infants , and they suggest that the early management of such infants needs renewed critical evaluation .
+effect of ph on ionic exchange and function in rat and rabbit myocardium .
+the effects of ph variation on ionic exchange and mechanical function were studied in the arterially perfused rat and rabbit septa .
+the ph and pco2 of the control perfusate were 7.40 and 39 mmhg , respectively .
+in the rabbit septum a metabolic acidosis ( ph equals 6.82 , pco2 equals 39 mmhg ) caused a loss of 16 % of control tension in 12 min .
+na+ and k+ exchange were unaltered .
+a comparable respiratory acidosis ( ph equals 6.81 , pco2 equals 159 mmhg ) caused a 51 % loss of tension in 2 min .
+na+ exchange was unaltered but k+ efflux fell from 8.9 +/- 0.6 ( mean +/- se ) to 4.9 +/- 0.3 mmol/kg dry wt per min ( p less than 0.001 , n equals 10 ) .
+a net gain of k+ of 16.9 +/- 1.7 ( n equals 14 ) mmol/kg dry wt occurred and was attributable to a delayed fall in k+ influx relative to efflux over 15 min .
+the net gain could not be mimicked by epinephrine administration or blocked by propranolol and was absent in the beating rat septum and the quiescent rabbit septum .
+these results suggest that the net uptake of k+ , which appears to be dependent on a period of depolarization , and the changes of contractility are controlled by the h+ ion concentration at a cellular site whose exchange with the extracellular space is characterized by a considerable restriction of diffusion .
+changes of contractility are not related to the net uptake of k+ .
+acid-base balance in amphibian gastric mucosa .
+it has been established that h+ secretion can be maintained in frog stomach in the absence of exogenous co2 by using a nutrient bathing fluid containing 25 mm h2po4 ( ph approximately equal to 4.5 ) or by lowering the ph of a nonbuffered nutrient solution to about 3.0-3.6 .
+exogenous co2 in the presence of these nutrient solutions uniformly caused a marked decrease in h+ secretion , pd , adn short-circuit current ( isc ) and an increase in transmucosal resistance ( r ) .
+elevation of nutrient [ k+ ] to 83 mm reduced r significantly but transiently without change in h+ when nutrient ph less than 5.0 , whereas r returned to base line and h+ increased when nutrient ph greater than 5.0 .
+acidification of the nutrient medium in the presence of exogenous co2 results in inhibition of the secretory pump , probably by decreasing intracellular ph , and also interferes with conductance at the nutrient membrane .
+removal of exogenous co2 from standard bicarbonate nutrient solution reduced by 50 % the h+ , pd , and isc without change in r ; k+-free nutrient solutions reverse these changes in isc and pd but not in h+ .
+the dropping pd and rising r induced by k+-free nutrient solutions in 5 % co2 - 95 % o2 are returned toward normal by 100 % o2 .
+our findings support an important role for exogenous co2 in maintaining normal acid-base balance in frog mucosa by acting as an acidifying agent .
+effect of sodium nitrate loading on electrolyte transport by the renal tubule .
+effects of sodium nitrate were compared with sodium chloride loading on transport of electrolytes by the nephron .
+maximal levels of free water clearance/clomerular filtration rate ( ch2o/gfr ) averaged 8.4 % with nitrate loading and 14.4 % with saline loading .
+since ethacrynic acid and chlorothiazide exert their major natriuretic effect in the distal nephron , the increment in na ad cl reabsorbed beyond the proximal tubule .
+the administration of these agents resulted in an increase in fractional sodium excretion ( cna/gfr ) of 21.1 % , urinary sodium excretion ( unav ) of 1,126 mueq/min , and urinary chloride excretion ( uclv ) of 848 mueq/min during nitrate loading compared with an increase in cna/gfr of 37.6 % , unav of 2,362 mueq/min , and uclv of 2,397 mueq/min during saline loading .
+the smaller diuretic-induced increment in na and cl excretion in the nitrate studies suggests , as do the hydrated studies , that less cl and na are reabsorbed in the distal nephron during nitrate than saline loading .
+at every level of unav , fractional bicarbonate reabsorption was higher , urine ph was lower , and urinary potassium excretion ( ukv ) was higher in the nitrate studies .
+thus , compared with saline loading , sodium nitrate decreases chloride and sodium reabsorption in the distal nephron .
+the higher hydrogen and potassium secretion in the nitrate studies may be consequent to the decreased ability of the distal nephron to reabsorb chloride .
+coronary vascular and myocardial responses to carotid body stimulation in the dog .
+coronary vascular and myocardial responses to selective hypoxic and/or hypercapnic carotid chemoreceptor stimulation were investigated in constantly ventilated , pentobarbital or urethan-chloralose anesthetized dogs .
+bilaterally isolated carotid chemoreceptors were perfused with autologous blood of varying o2 and co2 tensions via an extracorporeal lung circuit .
+systemic gas tensions were unchanged .
+effects of carotid chemoreceptor stimulation on coronary vascular resistance , left ventricular dp/dt , and strain-gauge arch output were studied at natural coronary blood flow with the chest closed and during constant-flow perfusion of the left common coronary artery with the chest open .
+carotid chemoreceptor stimulation slightly increased left ventricular dp/dt and slightly decreased the strain-gauge arch output , while markedly increasing systemic pressure .
+coronary blood flow increased ; however , coronary vascular resistance wa .
+as not affected .
+these studies show that local carotid body stimulation increases coronary blood flow but has little effect on the myocardium .
+the increase in coronary blood flow results mainly from an increase in systemic arterial pressure .
+thus these data provide little evidence for increased sympathetic activity of the heart during local stimulation of the carotid chemoreceptors with hypoxic and hypercapnic blood .
+oxygenation of frog gastric mucosa in vitro .
+we have recently shown that 5 % co2/95 % o2 in the serosal bathing solution , with 100 % o2 in the mucosal solution , results in co2-diffusion limitation of acid secretion in bullfrog gastric mucosa .
+changing to 10 % co2/90 % 02 on both surfaces doubles the acid secretory rate .
+we calculate that , were the rate of oxygen consumption to increase significantly as a result of secretory stimulation , the tissue would now be oxygen limited .
+this prediction is tested by raising the p02 by increasing the total pressure in a hyperbaric chamber .
+since no change in acid secretory rate or potential difference was observed upon changing from po2 = 0.9 to po2 = 1.9 atm , we conclude that the tissue is not o2 limited at normal pressure .
+decreasing po2 below 0.9 atm , by contrast , decreases the acid secretory rate and raises both pd and resistance .
+we infer that the rate of oxygen consumption did not rise significantly when acid secretion was increased by supplying sufficient co2 .
+mechanisms of disposal of acid and alkali in rabbit duodenum .
+stripped duodenal mucosa of rabbits was mounted in ussing chambers containing a ringer solution gassed with 100 % o2 .
+the disappearance of acid or alkali from the mucosal solution of short-circuited tissue was measured with a ph stat while the serosal ph was kept at 7.4 .
+the duodenum rapidly disposed of both acid and alkali ; neither property was altered by gassing with n2 while iodoacetate was in the perfusing solutions .
+prevention of release of co2 from the mucosal chamber obliterated the early rapid phase of acid disposal by the mucosa while a similar maneuver in the serosal chamber increased the appearance of serosal acid without altering the rate of acid disposal .
+gut sacs of rabbit duodenum in vitro and in vivo showed a positive correlation between acid disposal and the rate of luminal co2 production .
+while acid disposal progressively decreased with time for the in vitro gut sacs , the in vivo gut sac showed no fatigue in this respect .
+luminal acidification in the ussing chamber was associated with a profound reduction in short-circuit current ( isc ) , partially reversible by elevation of the mucosal ph but not by luminal glucose .
+our data suggest that acid disposal occurs in part by intraluminal neutralization and in part by diffusion into the mucosa .
+letter : acid secretion by gastric mucous membrane .
+maintenance antipsychotic therapy : is the cure worse than the disease ?
+the serious long-term complications of maintenance antipsychotic therapy led the authors to undertake a critical review of outpatient withdrawal studies .
+key findings included the following : 1 ) for a least 40 % of outpatient schizophrenics , drugs seem to be essential for survival in the community ; 2 ) the majority of patients who relapse after drug withdrawal recompensate fairly rapidly upon reinstitution of antipsychotic drug therapy ; 3 ) placebo survivors seem to function as well as drug survivors -- thus the benefit of maintenance drug therapy appears to be prevention of relapse ; and 4 ) some cases of early relapse after drug withdrawal may be due to dyskinesia rather than psychotic decompensation .
+the authors urge clinicians to evaluate each patient on maintenance antipsychotic therapy in terms of feasibility of drug withdrawal and offer practical guidelines for withdrawal and subsequent management .
+task delegation to physician extenders -- some comparisons .
+this study uses a task delegation questionnaire to compare 1973 physician extender practices in seven primary care-oriented sites with a physician attitude survey made in 1969 .
+one additional site using no physician extenders was included as a control .
+the study involves both major types of physician extenders ( physician assistants and nurse practitioners ) in ambulatory practices with at least one year of experience in using such personnel .
+with minor exceptions , actual task delegation patterns conform with the 1969 attitudes of physicians as to which tasks `` could and should '' be delegated to physician extenders .
+chest roentgenography as a window to the diagnosis of takayasu's arteritis .
+the chest roentgenographic findings in takayasu's arteritis include widening of the ascending aorta , contour irregularities of the descending aorta , arotic calcifications , pulmonary arterial changes , rib notching , and hilar lymphadenopathy .
+the single most important diagnostic sign is a segmental calcification outlining a localized or diffuse narrowing of the aorta .
+the other signs may be suspicious or suggestive , but the diagnostic accuracy increases when several findings are present simultaneously .
+evaluation of the nissen antireflux procedure by esophageal manometry and twenty-four hour ph monitoring .
+fifteen normal volunteers without symptoms of gastroesophageal reflux and sixteen patients with symptoms of gastroesophageal reflux unresponsive to medical management and having endoscopic esophagitis had esophageal manometry and twenty-four hour ph monitoring of the distal esophagus .
+the symptomatic patients underwent a nissen antireflux procedure and were restudied at four months .
+after surgery , patients had less reflux , a higher sphincteric pressure , and an equal amount of sphincter within the abdomen as did asymptomatic control subjects .
+[ effect of combined use of steroid preparations with pyrroxane on the gonadotropic function of the hypophysis ] .
+[ changes in the indicators of immunologic reactivity in patients with juvenile uterine hemorrhages in different methods of therapy ] .
+[ plasma renin activity and plasma aldosterone during anaesthesia and operative stress and beta-adrenergic blockade ( author's transl ) ] .
+in 21 patients undergoing ear operations associated with minimal bleeding plasma renin activity and plasma aldosterone concentration were studied before and during surgical procedure , and in the postoperative state .
+studies were performed in two groups , one without ( n=9 ) and one with beta-adrenergic blockade by practolol ( n=12 ) .
+plasma renin activity increased significantly during halothane anaesthesia alone whereas the surgical manipulations did not further influence mean values significantly .
+thus , it seems to be established that anaesthesia per se influences renin secretion .
+on the other hand practolol does not show an inhibiting effect .
+the plasma renin increase following anaesthesia is due to the hemodynamic including renal hemodynamic , changes as well as to activation of the sympatho-adrenal system .
+changes in plasma aldosterone are variable .
+for the greater part of patients with beta-adrenergic blockade an increase during the operative procedure was found .
+however , in some patients especially in the control group , plasma aldosterone was unchanged or decreased in spite of increasing renin values .
+significantly lower plasma potassium concentration in these cases seems to indicate the important contributing role of potassium for the short-term regulation of aldosterone secretion .
+plasma sodium concentration remained unchanged for the periods studied .
+rapid , multisample isoelectric focusing in sucrose density gradients using conventional polyacrylamide electrophoresis equpiment : a two-peak transient in the approach-to-equilibrium .
+assay of picomole amounts of atp , adp , and amp using the luciferase enzyme system .
+analytical studies on crotamine hydrochloride .
+protein staining and ph gradient determination on the same gel in isoelectric focusing .
+desalting of rpc-5 oligonucleotides on dowex 50 .
+extinction coefficients for use in equations for the spectrophotometric analysis of haemoglobin mixtures .
+ehancement of fine structure of ultraviolet spectra applied to direct extraction of drugs from urine .
+letter : thiopental absorption after inadvertent injection into the epidural space .
+[ surgical criteria for reoperation in abdominal surgery ] .
+analysis of the surgical criteria for reintervention in abdominal surgery led to the accentuation of a certain number of pictures of occlusion , general infectious syndromes , postoperative peritonitis , gastro-intestinal fistula and hemorrhagic syndrome .
+in all cases , the clinical examination can be misleading in particular in the case of peritonitis , and the history and non-surgical criteria must be strongly borne in mind .
+[ nephrologic criteria for reoperation ( in the framework of abdominal surgery ) ] .
+38 cases of abdominal surgery in acute renal failure , checked anatomically by reintervention or autopsy , were analyzed .
+the authors emphasize the frequency of the state of shock ( 2/3 of the cases ) and the misleading nature of local signs .
+they stress the value of routinely checking creatinine clearance in the preoperative check-up in order to screen for latent renal failure .
+[ criteria for reoperation in abdominal surgery ( exclusive of surgical and nephrological criteria ) ] .
+in summary , 40 p. 100 of 104 reinterventions carried out in 71 patients from the resuscitation sector were decided upon in the absence of surgical and nephrological criteria .
+the authors emphasize the value of the infectious syndrome ( 74 p. 100 of the cases ) , of water and electrolyte disorders ( 60 p. 100 of the cases ) , and of hypercatabolism ( 83 p. 100 of the cases ) .
+[ discussion : criteria for reoperation in multiply-operated patients ] .
+[ preparation of the patient for reoperation ] .
+the preparation of patients for reintervention should aim at the correction of : - states of shock and collapse , found in one out of three patients ; - hydroelectrolytic disturbances ( sodium depletion , hypochloremia , dyskaliemia ) ; - and finally , re-establishment of the acid-base balance .
+[ anesthesia in reoperations in abdominal surgery ] .
+fifty one patients from different surgical units , hence anesthetized by different anaesthesists , underwent reinterventions in abdominal surgery .
+the indications for the first intervention essentially involved the supra-mesocolic region of the abdomen ( 62 out of 100 cases ) .
+the operative risk during the first intervention was on the average 18 pour cent .
+the protocol of the first anaesthesia which was known in 42 cases , was of the narco-ataralgestic type .
+the date of the return to the operation table varied from 1 to 60 days .
+the state of the patients was in general catastrophic ( organic renal failure , acute respiratory failure ) .
+here again the anaesthesia was of the narco-ataralgesic type but the choice of drugs varied depending on the patients ' state .
+however non significant difference was noted in the average hourly drug consumption between the two interventions .
+apart from one circulatory arrest during induction , in one patient with hemorrhagic shock , no death was attributable to the anesthetic technique .
+the authors , using these findings , attempt to pick out a practical line of behaviour .
+[ peroperative resuscitation in abdominal reoperations ] .
+resuscitation of these patients during operation is the only the logical continuation of their preparation .
+the authors therefore take up the preceding points while emphasizing : - checking vascular filling , by central venous pressure and hourly diuresis ; - the necessity for a supply of carbohydrates , which is even more indispensable when the subjects were submitted to parenteral hyperalimentation previously ; - the advantages of performing arterial blood gases in order to check artificial ventilation .
+[ the surgical period ] .
+reinterventions demand adaptation of the anaesthesia to each particular case .
+abdominal exploration and peritoneal toilet are the preliminaries of the surgical act .
+continuous confrontation of anesthetic problems with surgical difficulties guarantee effective surgery .
+[ respiratory problems following repeated abdominal surgery ] .
+the authors analyzed a series of 100 patients who had undergone a total of 143 reinterventions and found respiratory manifestations in 86 cases .
+they emphasized the frequency of functional respiratory failure and studied the course of different clinical , radiological and laboratory parameters .
+the second part is concerned with the physiopathological mechanisms , recalling the main causes of postoperative hypoxemia .
+finally the therapeutic chapter is centered on the chronology and modalities of artificial ventilation .
+[ infectious problems in reoperations in abdominal surgery. apropos of 104 operations ] .
+analysis of the problems with infection in a series of 104 reinterventions , enables one to accentuate the importance of infestation from intraperitoneal foci ( 70 p. 100 of the cases ) .
+extra-peritoneal entry pathways are difficult to prove .
+septicemia is found in one out of every three cases .
+in certain cases , preventive treatment of the extra-peritoneal entry pathways must be opposed to the effectiveness of the surgical act in the eradication of septic foci .
+[ nutrition in the surgical patient with complications ] .
+parenteral feeding in complicated abdominal surgery has been a definite therapeutic progress .
+however the authors emphasize the divergent attitudes concerning the amounts of nitrogen which should be supplied as well as the variations in the calories-nitrogen ratio .
+they propose a practical attitude which must be reevaluated individually .
+[ surgical problems. ( apropos of reoperations in abdominal surgery ) ] .
+out of 1,500 laparotomies carried out between january 1970 and december 1973 , 49 patients , i.e. 3.2 p. 100 underwent 61 reinterventions : one out of three patients died .
+almost 60 p. 100 of these patients who had undergone operations had essentially parietal complications .
+the authors analyze the different syndromes which had led to the reintervention while making a special place for parietal problems .
+[ prognostic factors in reoperations in abdominal surgery. apropos of 104 operations ] .
+analysis of the prognostic factors in abdominal surgical reinterventions accentuates the disparaging character of age , associated defects and emergency .
+intercurrent respiratory complications , as well as infectious and renal complications make the prognosis considerably worse .
+[ respiratory signs of surgical complications after abdominal operations ] .
+the authors present 29 cases of post-operative respiratory complications in abdominal surgery in subjects without any past history of respiratory disorders .
+they stress the diagnostic value of these cases of acute respiratory failure shown in a third of the cases of surgical complications .
+[ medico-surgical evaluation of 71 reoperations in abdominal surgery ] .
+the authors thoroughly checked 71 reinterventions in abdominal surgery .
+they again found the importance of the factor of infection , respiratory , complications and oligoanuria .
+the overall percentage of deaths was 58 p. 100 , age and associated defects made the prognosis worse .
+[ postoperative peritonitis. use of metabolic disorders as criteria for reoperations ] .
+the authors compared three groups of subjects : - the first group ( 11 patients ) : re-operated for post-operative peritonitis ; - the second group ( 6 patients ) : re-operated for evisceration without any underlying lesion ; - the third group ( 8 patients ) : non-reoperated , complicated abdominal surgery .
+study of the different laboratory parameters helped to identify a number of changes which could plead in favor of reintervention , in the group of peritonitis .
+among these modifications , the progressive fall in the urinary na/k ratio and the negativity of the nitrogen balance appear to play a privileged role .
+[ our experience with reoperations in abdominal surgery. ( 54 reoperations in 46 patients in the last 4 years ) ] .
+the authors analyze 54 reinterventions in abdominal surgery in 46 patients , and present the lesions found on reintervention .
+in one out of two cases there is an intra-peritoneal septic focus .
+in more than 25 p. 100 of the cases the lesions were multiple .
+they oppose the localized septic foci and the occlusions which are of good prognosis , with the diffuse septic foci , acute pancreatitis and fistulae whose course is more often than not fatal .
+[ anesthesia and resuscitation of a thoracic-injured patient just arriving at the hospital ] .
+[ anesthesia and resuscitation of a heroin addict ] .
+[ loco-regional anesthesia of the foot by truncal infiltration at the level of the ankle ] .
+[ demythification of acupunctural anesthesia ] .
+the so-called method of acupuncture anesthesia uses a series of techniques : selection of patients , psychotherapy , premedication , adjuvants ( morphinomimetics , local anesthetics ) , choice of points ( very varied ) whose specificity has not been demonstrated , mechanical or electrical stimulation ( with very differents depending on the `` schools '' .
+the effects of these procedures are inconstant .
+they are slowly established .
+at best , they are manifested by a hypo-esthesia which is more or less wide-spread and is not accompanied by any `` anti-reflex '' protection .
+the action of the organism's different functions is not known in detail .
+there are no statistical studies in the strict sense of the term , in man .
+it can be roughly estimated that out of 100 surgical patients chosen , about 30 undergo the intervention in acceptable conditions in the western world .
+the cases , although nothing is concealed in hanoi as well as in peking , are difficult , and should only be handled by experienced anesthetists-resuscitators , with knowledge of acupuncture .
+certain of the method's advantages only appear in comparison with bad `` chemical '' anesthesia ( atoxicity , simplicity , economy ) , others are practically investions ( anallergic effects , anti-infections , anti-shock ) or at least abuse of language .
+the disadvantages apart from the inconstancy of effectiveness , the absence of `` protection '' , the duration of induction , consist of lack of standardization of techniques , difficulties of animal experiments and the lack of rational explanation of the mechanism of action .
+[ study of the effects of alfatesin on cerebral blood flow in cats ] .
+the cerebral haemodynamic effects of ct 1341 also called alfatesin , an anaesthetic steroid , were studied in the cat by means of the xenon 133 isotopic clearance method to measure the cerebral blood flow .
+the injection or intravenous drip of alfatesin in animals whose arterio pco2 was kept unchanged induced a cerebral blood flow diminution , the importance of which was proportional to the injected dose .
+the cerebral blood flow fall was partly due to a cerebral arterio vasoconstriction evidenced by direct observation of the cortex vessels and by a diminution of the intracranial presure .
+during a deep anaesthesia induced by alfatesin with recurrent burst suppression , there was a loss of cerebral blood flow autoregulation while the co2 cerebral vascular reactivity was maintained .
+this last result accounts for the increase in cerebral blood flow parallel to the hypercapnia that could be observed among animals breathing freely .
+[ effects of alfatesin on total cerebral blood flow in humans ] .
+the total cerebral blood flow was measured by the xe 133 in 9 patients , before and during a pure alfatesine induced anaesthesia .
+with a perfusion flow of 0,04 ml/kg/mn , the total flow underwent a mean fall of 38 p. 100 that was linked neither to any systemic pressure variations nor to variations of the paco2 .
+this fall was linked to a cerebral arterio vasoconstriction as it was evidenced by arteriographic images .
+[ study of pressor drops during continuous peridural analgesia in gerontologic surgery ] .
+a statistical study bearing upon othe fall of blood pressure concomitant with the setting of peridural anaesthesia was carried out upon an homogeneous series of patients over 75 belonging to groups iii and iv of the a s a classification for interventions seating below the ixth metamere .
+from this study , it seems to follow that : - for starting maximum arterial tensions over 180 mm/hg , pressure falls are virtually constant in absolute value ; - the most important variations in pressure falls are to be found in abdominal surgery ; - the lowest figure in blood pressure which accompanies the achievement of surgical analgesia takes place about the 24 th minute whatever the type of surgery can be ; - no significant link can be evidence between the importance of the fall in blood pressure and the consumption of the mixture required for surgical analgesia .
+[ harzard of chronic exposure to halothane for operating room personnel ] .
+this study shows that the staff working in an operating room is repeatedly being exposed to appreciable doses of halothane vapours .
+a continuous measurement of the concentrations in the ambient air gave results ranging from 5 to 30 ppm .
+summits from 50 to 70 ppm were noted .
+the inhaling of halothane was evidenced by the presence of brominated metabolites in the urine of the staff .
+a mean 14,59 mg/l was found with women anaesthesists .
+therefore it is quite possible that the halothane spread in the air should be held responsible for the discomfort felt in particular by anaesthesists .
+to prevent this risk of chronic intoxication by those vapours , there ought to be a device permitting either to evacuate them outside or to collect them while regenerating the polluted air through an active carbon filter if one has not got at one's disposal an airing system offering over 20 renewals of fresh air per hour .
+the fitting up of a permanent control device equipped with warning light and bell is also justified .
+[ organization of first aid on the northern motorway in picardy. role of the regional medical first aid unit ] .
+the picardy regional s.a.m.u. implanted in amiens , has participated in the implantation of antennae of the s.m.u.r. whereby aid can be given accident cases on the northern motorway .
+after a brief historical review of the creation of these antennae , and presentation of what exists in the sections of the northern motorway not in picardy , the means of the regional s.a.m.u. are presented , and the way it which it functions , with regards to specific problems concerning medical aid on the motorway .
+the results of the s.m.u.r. activities are presented and discussed .
+the necessity for good coordination of medical aid , the fundamental role of the regional s.a.m.u. , is particularly emphasized .
+[ helicopters and medical first aid units. role of medical first aid unit 94 ] .
+for the transport of injured and sick patients , the helicopter ( even the mono-turbine type ) offers greater advantages when compared to land vehicles : - more comfort ( less vibrations , accelerations and decelerations ) ; - a greater speed , that is to say a 61 p. 100 gain of time upon the distance and a gain from 29 up to 44 p. 100 upon the total amount of time taken up by each transport .
+this gain in time enables valuable specialised medical teams to be more available : - more precise time-tables than by land which namely makes it easier to receive the patients .
+the drawbacks are linked with the risks which are not nonexistent but rather less serious than by land .
+the drawbacks also depend upon the weather-conditions ( although this factor does not matter much in our area ) , upon nuisances such as the noise ( which is more important but far more transitory than by ambulance ) and chiefly upon the cost of air-transport .
+in fact , the mean cost of a medical land transport amounts roughly to one thousand francs , a quarter of which only does represent the actual cost of medical aid .
+for a similar transport , the helicopter comes to a 47 mns flight .
+there are several ways of making good use of a helicopter .
+practical problems have been solved .
+the `` samu 94 '' experience goes back to 1973 and includes over 500 transports by helicopter essentially with the help of the teams and the helicopters belonging to the paris base ( civil protection and the fire-brigade ) .
+for flights over urban areas , it is to be desired in the future that only twin-turbine helicopters should be used .
+[ clinical and therapeutic problems posed by hangings. apropos of 67 cases ] .
+starting from a collection of 67 cases of hanging taken over by the anesthesia resuscitation department belonging to reims hospital university centre , the authors report their clinical observations and make an analytical confrontation of this type of accident according to various criteria such as : - the initial physical condition of the victims ; - the evolution of the symptoms ; - the various medical treatments used .
+the immediate consequences of miscarried hangings lead to a physio-pathological argument dealing mainly with the neurological and breathing manifestations .
+the elements of this argument enable the writers to back up certain therapeutic orientations among which hyperbaric oxygen therapy and early prescription of which seems to be wished for in the most severe forms of hanging .
+[ severe complications of subclavian vein catheterization ] .
+the authors report 4 observations of severe involvement induced by sub-clavian catheterization : - 2 catheter-embolisms ; - 1 venous thrombosis and one hydrothoraxx .
+one embolism and the hydrothorax were caused by a faulty puncturing .
+the thrombosis was the result of a relative stenosis of the vein induced by a loop of the catheter in the pirogoff confluent .
+next , the authors develop the facts given by the literature bearing upon each one of these complications .
+[ acute renal insufficiency and fat embolism ] .
+the authors report ten cases of renal insufficiency observed among a series of 43 cases of fat embolism .
+it is a matter of eraly oligoanuria ( starting beween the 2nd and the 4th day ) .
+its severity depends on the lesions involved : prolonged cardio-vascular collapse - cranio-encephalic lesion .
+the renal insufficiency does not seem typical of fat embolism .
+it must be essentially linked to a cardio-vascular collapse and/or to a disseminated intra-vascular coagulation .
+[ anesthesia-reanimation and perinatology. introduction ] .
+[ effects of nasogastric intubation on respiratory resistance and work in newborn and premature infants ] .
+the nasal resistance participates for almost 50 p. 100 in the resistance of airways ( rva ) of the new-borns whose respiration is mainly nasal .
+the possibility of an oral respiration in case of partial or total occlusion of nasal way is almost null .
+in order to determinate the effects of a naso-gastric suction of the rva 10 normal infants ( 3 prematures , 7 new-born babies ) were studied by plethysmographia .
+the presence of the suction brought a systematic and significant increase of rva ( the coefficient of transformation = 1,318 +/- 0,21 p is less than 0,001 ) .
+in the nine infants for whom the resistant work ( wr ) was estimated is increased proportionaly to the increase of rva ( deltarva ) ( coef. of transformation = 1,44 +/- 0,44 , p is less than 0,001 ) .
+however the proportional increase of wr is not systematic superior for 3 prematures and 1 new-born baby and similar in one case .
+these variations can be explained by various adjustments of the v .
+the increase of work imposed by the presence of a naso-gastric suction can not be underestimated in particular for the prematures .
+[ treatment of severe forms of idiopathic respiratory distress in newborn infants using constant negative perithoracic pressure ] .
+49 children with a severe idiopathic respiratory distress syndrome were treated by continuous negative pressure ranging from 5 cm of water to a negative pressure of 13 cm of water around the thorax .
+the partial pressure of oxygen rose significantly in the majority of cases , and the alveolo-arterial gradient also significantly diminished by more than 100 mm of mercury .
+29 children were treated by this method alone , but in 20 other children owing to the failure of constant negative pressure , respiratory assistance either by intermittent pressure ventilation or intermittent positive pressure ventilation was associated .
+on the whole 35 out of 49 children survived .
+the complications which were met with are analyzed .
+continuous negative pressure seems to be a safe and effective method for improving oxygenation in the idiopathic respiratory distress syndrome .
+[ pah clearance measurement without urine samples in the newborn infant with respiratory distress ] .
+pah clearance was carried out in 12 newborns , hospitalized in the infantile resuscitation unit for respiratory distress .
+6 of these children weighed less than 2.5 kg , 4 had hyaline membrane disease , 6 had either amniotic abnormalities or transitory tachypnea , 2 were surgical patients : one right diaphragmatic hernia , one post-operative respiratory complication after intervention for neonatal occlusion .
+in 9 cases the newborn was under controled artificial ventilation associated with peep at 5 to 7 cm of water .
+in all of the cases , the hemodynamic , metabolic and blood gas conditions were normal .
+a control series of 11 newnorn was carried out in a pediatric unit , the clearance was done without urine samples , the rough value of the figures found varied from 5.5 ml per minute to 30 ml per minute in the respiratory distress series and 16 to 62 ml per minute in the control series .
+the analysis of these results in rendered difficult by the juxtaposition of several factors : choice of a reference criterion : body surface area , pah space , patient's weight theoretical weight of the kidneys .
+the factor of prematurity .
+the problem of the date of the investigation in comparison with the date of birth .
+[ transport of `` high-risk '' newborn infants. ( apropos of 159 emergency calls by the samu 94-service d'aide medicale urgente-emergency health service ) ] .
+analysis of our experience confirms in the domain of the newborn the fundamental notion of the emergency medical call .
+the emc has two objectives : 1 -- emergency treatment before the patient is moved , and the correction of failing vital functions by a medical team skilled in problems of neonates .
+2 -- transportation of the neonate in a stable condition , to the intensive care unit .
+the quality of such transportation depends closely upon the quality of the medical care given and upon organisation .
+it can only be carried out in the context of a system coordinated by a `` coordinating physician '' ( e.g. samu 94 ) .
+this coordinating physician has responsibility for logistics , telephone coordination , and application of the call procedure as rapidly as possible .
+from a logistical point of view , only coordination between : -- samu-smur ; -- medical team of the intensive care unit ; -- requesting service make possible the provision and quality of continuous supplies of oxygen , warmth , sugar - all under aseptic conditions , indispensable to the quality of survival of the neonate .
+in addition , we feel it essential -- that the delay before the call is answered be as brief as possible ; -- that the call should be dealt with by a mixed team , including at least one physician experienced in neonatal problems ; -- that the choice of vehicle used for transportation should be better adapted to the situation .
+this choice is the responsibility of the coordinating physician , who should base his decisions on two fundamental requirements : -- rapidity of dealing with the call ; -- personal safety of those involved .
+this without losing sight of -- prevention of perinatal problems lies part with the detection of high risk pregnancies , with the aim of arranging delivery in specialised `` mother and baby '' centres where close collaboration between obstetrician and paediatrician is assured. -- the development of transportation of the `` high-risk '' neonate , which is so costly in manpower and equipment , depends closely upon general concepts of health care in france , which should be aimed at : -- the prevention of prematury ; -- the detection of high risk pregnancies ; -- the development of mother and baby centres .
+[ transport of newborn infants. apropos of 114 cases ] .
+the transport of 114 newborn less than 24 hours old carried out in 1972 and 1973 by the paris samu ( professor m. cara's unit ) is studied .
+( he delay of arrival of the medical team is on the average one hour , the child arrives in the resuscitation center approximately two and a quarter hours after the call .
+in 15 cases an umbilical catheter was put in place ; in 27 cases the child was intubated , artificial ventilation was carried out during transport .
+on arrival , from the mean values , the temperature was 25.2 degrees , the ph 7.28 , the po2 112 , the blood sugar 1.53 g.three practical conclusions must be drawn : reserve high risk deliveries for specialized centers , when the degree of emergency compells delivery in a badly equipped center , contact the samu from the beginning of labour , render the actions carried out by the transporting doctor even more rigorous and controled , which implies an organized smur which is well equipped and trained .
+[ vascular and infectious enteropathy in newborn infants. reflections on pathogeny ; clinical and therapeutic deductions. apropos of 45 cases ] .
+necrotizing enterocolitis of the new-born has an anatomical definition : lesions discovered during surgery or on post-mortem examination .
+progress in neanatal shock reveals facts already known in the adult and in experimental medicine : concept of preferential and circulatory by-pass .
+a considerable decrease in blood flow is seen in the latter during shock ; this shock is sometimes not important .
+mesenteric circulation is the best example .
+this syndrome should therefore be included in the major vascular changes of neonatal period .
+vascular and infectious enteropathy is a broader term which seems more appropriate because of aetiological and therapeutic implications .
+the aetiology should be considered as a sum of several factors varying from one patient to another ( multifactorial disease ) .
+the circulatory component remains very important .
+its severity depends on whether or not it is treated .
+four notions should be defined : -- census of population of subjects with `` high risk '' of vascular and infectious enteropathy ( score trial ) ; -- isolation of clinical pictures corresponding to a medical or surgical stage ; grouping of elements for immediate and long term prognosis ; -- grouping of elements for immediate and long term prognosis ; -- proposal of preventive treatment to the `` high risk '' patients ( surgery ; continuons parenteral and enteral feeding are intientionally left out in this paper ) .
+the interest of this concept of the disease is to eradicate severe forms as in the neonatal idiopathic respiratory distress syndrome where a similar concept was adopted .
+[ pre- , per- , and postoperative resuscitation in thoracic surgery in newborn infants ] .
+the authors report their five year-experience in reanimation during thoracic surgery in the new-born .
+the report concerns 66 cases ( 43 atresias of the oesophagus and 23 diaphragmatic hernias ) .
+prognosonis depends on : 1 -- a permanent temam of suitably qualified doctors ready to carry out at any time the required therapy on the infant .
+2 -- free air way ( kinesitherapy , continous and prolonged suction of oesophageal atresias and bronchial suction ) .
+3 -- ventilation ( surgery on clean lungs in atresias , diaphragmatic prosthesis and suturing of skin in hernias ) .
+respect of these rules in diaphragmatic hernias saved 12 lives out of 23 ; in oesophageal atresias , 16 survived out of 16 cases classified as good cases , and the total survival rate was 73 % .
+[ congenital cardiopathies appearing during the neonatal period. the view points of the cardiologist , the hemodynamics specialist , the surgeon , and the anesthetist ] .
+the best chances of survival for a new-born depend on the following factors : the possibility of clinical and haemodynamic diagnosis of the malformation , adequate reanimation and surgery .
+all this must be carried out as early as possible .
+although catheterization is very risky it should be complete and as fast as possible , under monitoring of ventilation and haemodynamies .
+reanimation is very important before , during and after surgery ; it should be more preventive than curative .
+very often , surgery is only palliative at this age .
+taking into account progress in surgical techniques , the authors report their experience in anaesthesia and ressuscitation of 100 patients under 10 days old .
+they were all operated on in laennec in professor mathey's department but only some of them were catheterized there .
+[ leukomalacia and subsequent brain status in relation to intensive neonatal care ] .
+leucomalacia or white matter necrosis is one of the major aspects of neonatal encephalopathies , especially in the premature baby .
+these necroses are found mainly in the deep periventricular white matter of the `` semi-oval centre '' .
+characteristically , they are ischaemic and their anatomical and histological progress is rapid : coagulation necrosis with rapid axonal fragmentation followed by polymorphic cellular reaction with glial cells and macrophages .
+regeneration in the minor forms consists of glyosis process in severe forms ; multiple cavities appear in a few weeks .
+physiopathogenic hypotheses put forward are related to : 1 -- the very anatomic aite : special tissue and terminal arteries , 2 -- onset of myelinization process , 3 -- associated clinical and biological lesions such as hypoxia , acidosis and hypotention .
+these lesions are symptom-free during the neonatal period .
+one of us suggested in 1962 that these could be the anatomical basis of spastic monoplegia or diplegia ( little's disease ) .
+all motor cerebral sequelae have disappeared since 10 years .
+this is particularly significant mainly in the case of spastic diplegia of the former premature baby under 2500 g .
+this decrease coincides with improvement in neonatal care , especially correction of hypoxia , acidosis and cardiovascular collapse .
+these findings seem to support the pathogenic hypotheses .
+[ neonatal listeriosis ( based on 43 cases ) ] .
+using results in 43 cases from two neonatal units ( paris-tours ) , the authors emphasize the essential facts concerning neonatal listeriosis .
+1 -- incidence : -- of an infectious maternal disease ( 32 cases out of 43 ) , -- of permaturity ( 60 % of cases ) , -- and of foetal distress ( 72 % ) .
+2 -- clinical study : early neonatal infectious are the only forms seen ; clinical signs appear before the first day ( 40 out of 42 ) .
+these is septicaemia with mainly respiratory signs ( olypnoea , laboured breathing ) .
+their presence and clinical history should incite to take swabs of the orifices and carry out blood culture .
+the new-born are given double antibiotherapy ( penicline and aninoside or kanamycine and gentalline ) while waiting for laboratory reports .
+this routine treatment based on maternal past history and on mild clinical signs at this stage has improved the prognosis of these septicaemias ( 16 deaths out of 43 children ) .
+[ appearance of coagulation disorders in the non-healthy newborn infant ] .
+coagulation abnormalities are particularly frequent in neonatal pathology and justify exploration of hemostasis in the newborn .
+first of all we established a profile of coagulation in the newborn using our own results and data from the literature .
+contrasting with a deficit in numerous factors ( ii - vii - ix - x - xi - and xii ) , overall coagulation is normal , or even increased .
+the fibrinolytic system is characterized by a low plasminogen level but the activity of this system is transitorily increased .
+then we recall the known syndromes : avitaminosis k , constitutional deficits in the coagulation factors , isolated thrombopenia , disseminated intravascular clotting .
+however numerous problems persist .
+abnormalities in the clotting factors are frequently difficult to interpret .
+correlation between the clinical and laboratory pictures does not always exist .
+we emphasize the necessity for preventive measures .
+[ perinatal assistance in the delivery room -- reanimation of the newborn infant ] .
+in most cases birth brings an infant who can rapidly adapt himself to a normal extra-uterine life .
+however , sometimes and most of all , in `` high risk '' cases , this infant needs a correct surveillance before and after the delivery in order to prevent morbidity and especially perinatal morbidity .
+our actual knowledge , derived from the fantastic progress of perinatalogy , demonstrates that , in order to assure the wanted end of the pregnancy , the only assistance of the delivery at hospital by a qualified obstetrician is not enough .
+it is necessary to have a continuous surveillance at the beginning of the pregnancy and during the pregnancy and a correct attention at the mother - foetus binomial during the labor and the delivery .
+that will permit the discovery of pre- para and post-natal factors , to undertake the prevention and to lower the number of perinatal mortality .
+[ therapeutic trials in pregnant women ] .
+the increasing use of medications during pregnancy and labour leads to the question of their true effectiveness and the absence of harmful effects , for both mother and foetus .
+study of the action of medications given to the pregnant woman requires clinical trials with precise methodology including , as an essential stage , the definition of an experimental protocol .
+random distribution of the subjects to the various groups and statistical analysis of the results based upon objective criteria are essential .
+no study of the action of a medication as far as mother and foetus should be undertaken without prior parmacological and pharmacokinetic trials .
+[ drug interference and the role of anesthesia in such interference ] .
+this report considers interference between medications for , on the one hand , drugs given during pregnancy , and , on the other hand , drugs given to the pregnant women and anaesthetic agents .
+consideration is given to progestational agents , oxytocics , beta-mimetics , corticosteroids , insulin , hypotensive agents , diuretics and psychiatric drugs .
+for each case of interference , an attempt is made to provide practical data , with particular respect to those combinations frequently prescribed by obstetricians , e.g. the combination of the beta-mimetics and corticosteroids with the aim of preventing impending premature onset of labour and to ensure foetal pulmonary maturation ; the combination of insulin and corticosteroids given to diabetics with the aim of preventing hyaline membrane disease ; the combination of corticosteroids with anti-histamines in the treatment of rhesus disease ; the association of oxytocics with large quantities of intravenous fluid in the case of post-partum haemorrhage and hypontensive medication combinations and the problems which may result with emergency anaesthesis .
+[ drug heritage of the newborn infant ] .
+the medicamental heritage of the new-born baby is a reality that we are more and more realizing .
+during intra-uterine life , the foetus is placed under different maternal influences that the new-born baby is done an `` old '' and unsafe one who can present , as early as his birth , modifications of his own metabolism .
+to know if this heritage is really a dotation or an empoisoned gift , is an important question that we are going to study in light of experimental data and constatations of clinical pharmacology .
+[ influence on the fetus of drugs taken during pregnancy ] .
+the use of drugs during pregnancy is very common ; some substances can provoke in the foetus troubles and anatomical or functional disorders which may be detected either at birth or later on .
+then it is necessary the physicians restrict the prescription of therapeutical agents for and only for well-knowned indications .
+the education of people in regard of this subject is also necessary about drugs used during pregnancy without medical advices .
+[ evaluation of fetal maturity at birth ] .
+it is very important to evaluate the degree of maturity of a new-born infant in order : - to appreciate the chronological age when the date of the last period is unknown or doubtful , - to compare the degree of maturation with the weight and size of the infant , in regard of estimating the intra-uterine growth and detecting early a lateness or advance of this growth .
+[ severe respiratory distress with stubborn hypoxemia in newborn infants whose mothers had had placenta previa ] .
+the study of 16 newborn of birthweight less than or equal to 2,200 g characterized by a common point : the presence of placenta praevia in the mother , enabled us to come to grips with the severe respiratory distress that these newborn can have .
+from the clinical standpoint : there is always early respiratory distress .
+from the radiological standpoint : by far the most dominant pathology was interstitial edema , giving rise to a wet lung .
+from the biochemical standpoint : the blood gases were characterized in a certain number of cases by hypoxemia which was refractory to the usual forms of treatment .
+from the mechanical standpoint : measurements carried out in 4 patients confirmed the extraordinary fall in these patients ' compliance .
+the clinical , radiological , blood gas and mechanical analysis enabled one to differenciate 2 main types of indications for artificial ventilation : -- acute hypoxemia , -- the idea of an increased need for oxygen .
+in these 2 types of indications for artificial ventilation , it was apparent that the treatment of choice is constant positive pressure which may or may not be combined with intermittent positive pressure .
+with this treatment technique , none of the patients progressed to massive atelectasis .
+it can be said that with the advent of techniques of ventilation by high pressure combining ipp with cpp , one has definitively eliminated from this pathological picture , the principal cause of death : -- anoxia due to massive alveolar collapse .
+[ primary management of labor using neuroleptic analgesia ] .
+within the limits granted , neuroleptanalgesia constitutes a very interesting technique in the major part of management of labour .
+in particular it has the advantage of preserving maternal consciousness .
+on the other hand , it allows analgesia of rather long duration , which renders early management of labour possible while still respecting its physiology .
+the institution of this technique demands the presence at the parturients bedside , not only of the obstetrician and the medwife but also that of a qualified anesthetist .
+as in all cases of major management of labour it engages the responsability of the obstetrical team which undertakes it and this is even more so , the earlier it is started .
+to us its indications seem comparable with those of gamma oh : the early management of labour however has the advantage over the latter of preserving maternal consciouness .
+moreover it proved to be particularly interesting in the management of breech presentations .
+but if its properties are an advantage in the indications which we have just mentioned , they can constitute an invonvenience and restrain its use under different circumstances : its slowness of induction , the absence of narcosis which limits the effect on cervical resistance means that one prefers the toulouse method using pentothal for the management of labour after 7 centimeters of dilatation .
+in conclusion , it seems important to us to state that neuroleptanalgesia is not the ideal method for management of labour any more than is thiopental or gamma-oh .
+other techniques merit being studied .
+their study must obey strict rules in order to specify the risks and therefore the indications and limits .
+it should cover different fields which are , pharmacology , the objective assessment , by quantitative criteria , of the effects on uterine contraction , on the mother's clinical and biological state as well as that of the fetus in utero , then that of the child in the first hours of live and up to the first years of his development .
+[ drugs most frequently used during pregnancy and labor and their effects ] .
+it is rather difficult to draw up a list of the drugs most frequently used during pregnancy , and to specify their action on the mother , the uterus ans the fetus bearing in mind the differences between them .
+this difficulty results in particular from the high number of drugs owing to : the frequency of prescriptions and selfmedication in the pregnant woman who suffers from numerous disorders , and the possibility of a pathology associated with the pregnancy or a pathology due to the pregnancy itself thereby defining the `` high risk '' pregnancy .
+on this background already modified by pregnancy , under the hold of numerous drugs , an anesthetic can be necessary in addition during labour or delivery , the frequency of which can be estimated as being approximately 20 per cent .
+it is not possible to study all therapeutic agents in a single communication .
+one can only evoke the influence of the most currently used drugs ; analgesics , antibiotics , diuretics , sleeping tablets , anti-hypertensives and those aimed at the neuropsychiatric system ( anti-depression agents , neuroleptics , tranquillizers ) which are so frequently used at present .
+finally , during labour the number of parturients who receive no drugs is rare : ocytocic and anti-spasmodic agents can also interfere with an anesthetic .
+all of these ideas which are more and more difficult to acquire are important to know .
+in fact the person in charge of the delivery must prescribe as little drugs as possible ( in order to avoid multiple drug interference which is rather difficult to predict ) knowing the possible action of drugs on the fetus ( in order to allow best adaptation to life in our atmosphere after delivery ) and foreseeing the possible necessity for an anesthetic .
+in his turn , the anesthetist should have a good knowledge of obstetrical physiology and pathology and the drugs capable of being used during pregnancy and labour in order to be able to choose the best adapted anesthetic .
+this emphasized the importance of a well integrated obstetrico-anesthetic team in which each member knows the problems of the other , with the aim of being the least possible noxious for the mother , and the future newborn , the fetus .
+this also emphasizes the necessity for anesthetists attached to the ostetrical unit , knowing like the obstetrician the histories of those women with `` high risk '' pregnancies .
+obstetrical anesthetics can not be improvised .
+[ important physiological considerations in artificial respiration and reanimation of newborn infants ] .
+the methods used for ventilation of the neonate shold be based upon consideration of the physiological changes which occure in the lungs and circulation at birth of the normal infant .
+three important changes must be taken into consideration .
+the first is the formation of a residual volume of alveolar gas , the second the resorption of pulmonary fluid and the third a decrease in pulmonary vascular resistance , upon which is dependent the change from foetal circulation to that of the neonate .
+to begin insufflation of foetal lungs it is necessary to use a pressure of between 20 and 30 cm h2o .
+after the first insufflation , a good deal of air remains in the lungs , even during expiration , as long as pulmonary `` surfactant '' is present .
+in the absence of the latter , residual pressure at the end of expiration is necessary in order to avoid the lung emptying itself of air .
+the resorption of pulmonary liquid from the alveolar spaces into the blood is dependent upon a change in the permeability of the alveolar epithelium , which renders possible the rapid passage of water via the channels which open , probably between the epithelial cells , and this change is dependent upon an expansion of the lungs by a pressure of between 35 and 40 cm h2o .
+dilatation of the pulmonary vessels depends in part upon an increase in partial pressure of oxygen and a fall in carbon dioxide in the environment of the pulmonary arterioles , and in part upon mechanical changes brought about by the movements of ventilatation .
+[ spectrofluorometric determination of a new beta-blocking agent , acebutolol in blood and urine ] .
+the authors describe a simple method of spectrofluorimetric estimation of acebutolol , applicable to blood and urine , sufficiently sensitive to obtain therapeutic concentrations .
+after administration of a 200 mg dose by mouth , one may observe a maximal plasma concentration 3 hours later , with average values of 1.02 +/- 0.20 mg/liter .
+the principle of the estimation is based on acid hydrolysis of the product , then condensation of the liberated amine with nitroso-1 naphtol-2 to give a fluorescent derivative ( stimulation 460 nm , emission 545 nm ) .
+[ determination of the activity of serum ornithine carbamoyltranferase : working conditions in a veronal-acetate medium ] .
+ornithine carbamyl transferase activity was determined by estimation of the citrulline formed during the reaction .
+citrulline is estimated by diacetylmonoxime in the presence of thiosemicarbazide .
+the conditions of enzyme analysis were then studied in buffer veronal-acetate medium at 37 degrees c .
+the optimum ph for activity depended on the ornithine concentration , but was independent of carbamyl-phosphate concentration .
+at ph 7.8 , ornithine at concentrations higher than 1.6 mm inhibited enzyme activity , ornithine km was 0.208 mm and that of carbamyl-phosphate was 1.92 mm .
+the incubation time for determination of oct activity was 15 minutes .
+citrulline production was proportional to the enzyme concentration up to activities of 180 units/l .
+serum urea was destroyed by a urease of high quality , so that the formation of citrulline in the control reagents was minimal .
+reference values , determined on a hospital population , without liver , heart or pulmonary disease , lay between 4.7 +/- 2.3 units/l .
+the coefficient of variation of the technique , determined on a pool of serum of moderate activity was 8 units/l i.e. 5.1 per cent .
+behavior modification .
+a perspective on critical issues .
+comparison of anileridine and pethidine in preventing pain responses during nitrous oxide-oxygen anaesthesia .
+the analgesic potency of anileridine and pethidine was compared in 28 patients by measuring their effect on withdrawal movements caused by pinching of the skin or by surgery during n2o + o2 anaesthesia .
+it appeared that anileridine is 3.5 to 4 times as potent as pethidine on a weight basis .
+in equianalgesic doses the incidence of side effects was equal after both drugs .
+effects of the cardioselective beta-blocker metoprolol in angina pectoris .
+a subacute study with exercise tests .
+the effects of the cardioselective beta-blocker , metoprolol , were evaluated under double-blind conditions in eighteen patients with angina pectoris .
+during an introductory run-in period of eight weeks , a placebo was given single-blindly .
+thereafter two double-blind crossover periods each of four weeks followed , either 20 mg metroprolol or placebo being given t.i.d .
+metoprolol gave a significant reduction in the number of anginal attacks and in nitroglycerin consumption .
+the patients ' subjective assessments of their daily angina pectoris symptoms also showed a significant improvement compared with the placebo .
+at the end of each period , a standardized exercise test was performed .
+in comparison with placebo , metoprolol gave a significant increase of total work performed until the appearance of 1 mm st-segment depression and until the end of exercise .
+the heart rate was significantly reduced at rest and during exercise .
+the blood pressure was significantly reduced only during exercise .
+none of the patients reported any severe unwanted effects .
+the complaints reported were mild to moderate , and the frequency during metoprolol treatment was even lower than during placebo treatment .
+no signs or symptoms of cardiac failure were seen in any of these patients on any occasion .
+it is concluded that 20 mg metoprolol t.i.d. is of benefit in the treatment of angina pectoris but further benefit might be obtained with higher doses .
+effects of external and internal arthropod parasites on domestic livestock production .
+[ effect of the phosphorus concentration on novobiocin formation by the producer act. spheroides ] .
+according to the literature data biosynthesis of novobiocin by act. spheroides unlike other antibiotics does not practically depend on the phosphorus levels in the medium .
+in the present paper it is shown that production of novobiocin in natural media is sensitive to the concentration of mineral phosphorus in the medium .
+the optimal concentration of phosphorus for biosynthesis of novobiocin is almost within the same ranges as that for biosynthesis of streptomycin , tetracyclines and oleandomycin .
+[ microbiological study of gentamiycin ] .
+gentamycin prepared at the all-union research institute of antibiotics did not differ by its antibacterial spectrum and the activity level from gentamycin samples from other countries .
+by its activity against clinical strains of ps. aeruginosa gentamycin was somewhat inferior than polymyxin but much more superior than carbenicillin .
+an agar-diffusion method using bac. pumilus ntcc 8241 as the test microbe was developed for determination of gentamycin activity .
+the gentamycin sulfate complex and the components of gentamycin had the same activity levels , antibacterial spectrum and diffusion capacity .
+[ use of lincomycin , methicillin and ristomycin in the nutrient media for isolating pathogenic intestinal microorganisms ] .
+elective-differentiating solid nutrient media for simultaneous isolation of vibrioes , salmonella and shigella were developed .
+antibiotics active against grampostive microflora and dry bile salts inhibiting the growth of proteus were used as the inhibitors of the growth of the accompanying microflora .
+the medium was lincomycin and the bile salts may be prepared in a dry form .
+[ characteristics of the oxidative metabolism in strains with varying levels of fucidin biosynthesis ] .
+oxidative capacity of the fusidin-producing strains with various biosynthetic activity was studied comparatively .
+the studies showed that by their capacity to oxidize pyruvate and some metabolites of the tricarboxylic acid cycle ( acetate , succinate , malate ) the strains were arranged in the order reverse to their antibiotic activity .
+such regularity was observed during the whole fermentation process and was most pronounced by the 3rd and 4th days ( beginning of the idiophase ) .
+the rate of glucose oxidation was higher in more active strains .
+the same regularity was noted in the 2nd phase of the strain development associated with beginning of fusidin biosynthesis .
+in the 1st phase ( the 1st and 2nd days ) the strains almost did not differ by their capacity to oxidize glucose .
+by oxidation of phosphorylated ethers of carbohydrates ( glucose-6-phosphate and fructoso-6-phosphate ) the strains did not differ .
+various fusidin-producing strains oxidized nad-n and nadp-n approximately with the same rate .
+it is supposed that mutations leading to increased antibiotic production are associated with changes in acetate metabolism in the direction of more intensive biosynthesis of isoprenoid compounds , potential precursors of the fusidin molecule .
+lactulose therapy in shigella carrier state and acute dysentery .
+antibiotic-resistant shigella are increasingly prevalent .
+lactulose , a non-absorbable disaccharide , was investigated as an alternative therapy for shigella infection on the hypothesis that the short-chain fatty acids ( inhibitory to shigella ) resulting from metabolism of lactulose by normal colonic flora would diminish shigella excretion .
+a long-term antibiotic-refractory carrier ( large bowel ) excreting 10 ( 4 ) to 10 ( 7 ) shigella sonnei/g of feces was given two courses of lactulose ( of 24 and 16 days duration ) .
+during lactulose therapy , excretion of shigella was greatly diminished ( 24-day course ) or suppressed below detectable levels ( 16-day course ) , but returned to pretreatment levels upon discontinuation of lactulose .
+the volunteers who developed induced shigellosis during an efficacy test of oral shigella flexneri 2a vaccine were randomly given oral ampicillin , lactulose , or placebo in double-blind fashion .
+daily rectal cultures were taken .
+after 4 days of therapy , cultures were still positive in four out of four men on lactulose , three of three on placebo and none of three on ampicillin .
+mean stool ph of men receiving lactulose ( 6.1 ) was significantly lower than those getting ampicillin ( 7.4 ) , p < 0.01 , or placebo ( 7.0 ) , p < 0.05 .
+only in the lactulose group was mean stool ph during therapy significantly decreased compared with the level off therapy ( 6.1 versus 7.1 ) , p < 0.02 .
+lactulose shows promise for the treatment of shigella carriers but appears ineffective in treatment of acute shigellosis .
+antimicrobial effect of simple lipids and the effect of ph and positive ions .
+various branched fatty acids , particularly those of iso-configuration , have been shown to possess fungistatic and bacteriostatic properties .
+on the basis of their swelling effect on hyphae of fusarium roseum it was suggested that this is due to an increase in the permeability of the plasma membrane .
+the solubilization of fatty acids in membranes should be expected to be influenced by the degree of dissociation and the presence of counter ions .
+therefore , the effects of ph and k ( + ) , na ( + ) , and ca ( 2+ ) ions were studied .
+it is demonstrated that the presence of the univalent ions , na ( + ) and k ( + ) , markedly enhances the fungistatic effect of iso-tetradecanoic acid , whereas the opposite effect is noted for the divalent ion , ca ( 2+ ) .
+the effects are particularly pronounced at high ph .
+furthermore , the antimicrobial effect obtained from the combination of fatty acid and tetramethylthiuramdisulfide is significantly enhanced in the presence of 0.1 and 0.2 % kcl .
+regulation of citrate synthase activity of saccharomyces cerevisiae .
+citrate synthase activity of saccharomyces cerevisiae was determined by a radioactive assay procedure and the reaction product , 14c-citric acid , was identified by chromatographic techniques .
+atp , d-atp , gtp and nadh were most inhibitory to the citrate synthase invitro .
+the activity was inhibited to a lesser extent by adp , utp , and nadp whereas , amp and ctp were much less inhibitory .
+nadh , like nad , glutamic acid , glutamine , arginine , ornithine , proline , aspartic acid and alpha-ketoglutarate exhibited no inhibition .
+these results have been discussed in the light of the role of citrate synthase for the energy metabolism and glutamic acid biosynthesis .
+role of acetate metabolism in sporulation of saccharomyces carlsbergensis .
+several aspects of the role of acetate metabolism in the sporulation of saccaromyces carlsbergensis were investigated .
+experiments in which the development of the respiratory system was either stimulated by growth on sugars to which the cells have to adapt , or inhibited by chloramphenicol suggested a correlation between respiratory development and sporulation .
+in cells in which the respiratory system has been repressed during growth , mitobhondrial protein synthesis and derepression are prerequisites for sporulation .
+when derepression is complete , sporulation no longer depends on mitochondrial protein synthesis .
+incorporation experiments with acetate showed that this compound is an important source of intermediates for biosynthetic processes that occur during sporulation .
+its incorporation into macromolecular fractions is tightly coupled to sporutlation .
+bacterial and fungal growth in total parenteral nutrition solutions , .
+the most serious complication of prolonged intravenous infusion of hypertonic dextrose and amino acids is infection .
+frequently , the etiology is fungal rather than bacterial .
+previous authors have suggested that bacterial survival and growth in the solutions is suppressed by ( a ) high dextrose concentration , ( b ) high osmolality , or ( c ) low ph .
+this paper presents evidence that proposals ( a ) and ( b ) are untenable and ( c ) is only partly responsible .
+we call attention to the presence of a factor that is antibacterial but not antifungal ; namely , a high concentration of glycine .
+new medium for isolating iron-oxidizing and heterotrophic acidophilic bacteria from acid mine drainage .
+a new solid medium is described for growing iron and heterotrophic bacteria from acid mine drainage ( amd ) .
+examination of amd from five states revealed several kinds of colonies of iron-oxidizing bacteria : ( i ) smooth , ( ii ) smooth with secondary growth sectors or branching , ( iii ) star-shaped , ( iv ) radiating lobe , and ( v ) flat-rough .
+all amd samples yielded whitish colonies that could not use ferrous iron , sulfur , or hydrogen , nor could they grow on nutrient agar , brain heart infusion agar , or trypticase soy agar .
+glucose and sucrose supported growth if the sugar-salts medium was at ph 3.0 .
+the new iron medium has several advantages over others : ( i ) easy preparation , ( ii ) rapid growth , ( iii ) larger colonies , ( iv ) differentiation of colony morphology , and ( v ) detection of a new group of heterotrophic acidophilic bacteria .
+effect of initial ph on aflatoxin production .
+the effect of initial ph on aflatoxin production by aspergillus parasiticus nrrl 2999 was examined in a semisynthetic medium .
+maximal growth , aflatoxin production , and aflatoxin production per unit of growth occurred at initial ph levels of 5.0 , 6.0 , and 7.0 respectively .
+initial ph levels less than ph 6.0 favored production of the b toxins , whereas levels greater than ph 6.0 favored production of the g toxins .
+high-temperature production of protein-enriched feed from cassava by fungi .
+a simple , nonaseptic , low-cast process for the conversion of cassava , a starchy tropical root crop , into microbial protein for use as animal feed was sought .
+screening tests culminated in the isolation of a thermotolerant , amylase-producing mold , designated i-21 , which was identified as aspergillus fumigatus .
+the optimum ph for protein synthesis was 3-5 , but the optimum temperature was less than the desired temperature ( larger than or equal to 45 c ) required for a nonaseptic fermentation .
+a. fumigatus i-21 and its asporogenous mutant i-21a grew equally well in a medium prepared from whole cassava roots with a mean protein doubling time at 45 c and ph 3.5 of 3.5 h .
+in batch culture , approximately 4 % carbohydrate , supplied as whole cassava , could be feremented in 20 h , giving a final yield of 24 g of dry product , containing 36.9 % crude protein , per liter .
+the conversion of carbohydrate used to crude protein was 22.1 % .
+when determined as amino acids , the protein content of the product , which contained cassava bark and other unfermented residues , was 27.1 % .
+with urea as the nitrogen source , no ph control was necessary .
+preliminary data indicated that medium prepared from whole cassava roots was inhibitory to the mold unless the cassava pulp was heated to 70 c immediately after being ground .
+heating to 70 c was required to gelatinize the starch and permit its complete utilization .
+removal of algae from florida lakes by magnetic filtration .
+magnetic filtration was used for the removal of algal populations present in five lakes located in the vicinity of gainesville , fla .
+it was found that the use of this technique enabled a good removal ( 94 % ) of algal cells from three lakes where the ph was around 7 .
+the other two lakes , with a higher ph , displayed a lower removal .
+however , the treatment was greatly improved by lowering the ph from 9.5 to 6.5 .
+factors influencing detection and enumeration of pseudomonas aeruginosa by most-probable-number and membrane filtration techniques .
+most-probable-number ( mpn ) and membrane filtration ( mf ) techniques were evaluated with respect to selectivity , sensitivity , and efficiency in recovering pseudomonas aeruginosa strains in hospital fluids and extramural water environments .
+known numbers of cells of a naturally occurring strain of p. aeruginosa maintained in distilled water or cells subcultured on standard methods agar were added to test samples containing various types and levels of background microbial contamiants .
+environmental samples containing unknown numbers of p. aeruginosa strains also were tested .
+asparagine and acetamide broths were employed as presumptive media in mpn tests , and mpa and pseudosel agars were used in mf assays .
+statistical analyses of data showed the superiority and comparability of the asparagine-mpn and mpa-mf systems .
+greater precision and accuracy were consistently obtained in either assay technique by the use of naturally occurring cells as test organisms .
+the type of filter and nature of diluents employed , as well as ph of assay media , were found to greatly influence both recovery and developemnt of characteristic colonial morphology in the mpa-mf system .
+heat resistance of ileal loop reactive bacillus cereus strains isolated from commercially canned food .
+sporeformers isolated from a commercially canned food were identified as bacillus cereus , lactose-positive variants .
+the thermal resistance of spore crops produced from each of two representative cultures was determined in 0.067 m phosphate buffer at ph 7.0 .
+the d121.1 values for one isolate were approximately 0.03 min ( z = 9.9c ) , whereas the d121.1 values for the other isolate were 2.35 min ( z = 7.9 c ) .
+thermal inactivation results for heat-stressed isolates from each strain showed no significant alteration in heat resistance from that of the two parent spore crops .
+both isolates were reactive when injected into the ligated rabbit ileum .
+kinetics of a bacterial culture growth : validity of the affinity rule in biological systems .
+the kinetic study of a process is usually performed by measuring a convenient intensive property , p , as a function of time .
+the `` affinity rule '' states that , when a given process takes place under different external constraints ( e.g. , different temperatures , pressures , ph values , etc. ) , the various p versus time curves are related by an affinity transformation parallel to the time axis : in other words the p versus log time curves are parallel and can be superimposed by translation .
+the validity of the rule has been extensively tested in chemical and physiochemical processes , but there is no evidence as yet that it extends to biological systems .
+the present paper shows that the rule is indeed valid for the kinetics of growth of an escherichia coli culture at various temperatures and ph values .
+more extended experiments are necessary to prove or disprove the general validity of the rule in biological systems , but its practical interest is evident : whenever it is valid it will be possible , from a very small number of measurements , to predict the complete behavior of the system in a number of various external conditions
+beclomethasone dipropionate aerosol in treatment of hay fever in children .
+eighteen children suffering from hay fever were treated with intra-nasal beclomethasone dipropionate ( 400 mug/day ) and an identical placebo aerosol in a double-blind cross-over trial .
+17 of the children preferred the intranasal beclomethasone dipropionate , one had no preference , none preferred the placebo .
+the effect on the nasal symptoms was impressive .
+symptom scores decreased , on average , to 12 % and the number of antihistamine tablets taken to 18 % of the pretreatment amount .
+some beneficial effect on eye symptoms was also discernible , possibly due to an indirect influence from the nasal mucosa via the nasolacrimal reflex .
+adrenal function was not affected .
+it was concluded that 400 mug beclomethasone dipropionate given intranasally daily for some weeks is an effective and safe treatment for hay fever in children .
+the influence of oxyhemoglobin affinity on tissue oxygen consumption .
+in an intact animal or patient , any shift in oxyhemoglobin affinity is inevitably associated with concurrent fluctuation in numerous other determinants of oxygen delivery .
+for this reason , the influence of hemoglobin affinity for oxygen on tissue oxygen consumption has been incompletely evaluated .
+the purpose of this study was to investigate the influence of oxyhemoglobin affinity as the sole variable of oxygen delivery in an isolated perfused canine hindlimb .
+a membrane lung system which allowed precise control of blood flow , temperature , arterial oxygen content and arterial ph was established .
+twelve isolated canine hindlimbs were alternatively perfused with autologous stored ( left-shifted ) and fresh ( right-shifted ) blood in paralled perfusion systems .
+the 2,3-dpg concentrations , p50 and oxygen consumptions were significantly different in the two paralled perfusion systems .
+a decreased hemoglobin affinity for oxygen appeared to permit increased oxygen off-loading at the tissue level .
+the relationship between muscle surface ph and oxygen transport .
+the relationship between muscle surface ph ( phm ) and the arterial-venous oxygen content difference ( avo2d ) was studied in 4 patients undergoing reconstructive arterial surgery and in 6 patients undergoing acute normovolemic hemodilution .
+there was a consistent inverse relation between phm in the ischemic lower extremity and the femoral avo2d before , during and after aortic clamping .
+there was also an inverse relation between avo2d and phm during hemodilution .
+these data confirm that phm is a reliable indicator of tissue perfusion and correlates with the avo2d .
+sodium nitroprusside as a coronary vasodilator in man : a comparison of the effects of sodium nitroprusside and papaverine hydrochloride on aortocoronary saphenous vein graft flow .
+blood flow in aortocoronary saphenous vein grafts was studied in response to intragraft injection of sodium nitroprusside and papaverine hydrochloride .
+following injection of 50 mug of sodium nitroprusside , mean graft flow increased from 40.1 +/- 4.5 to 81.3 +/- 8.5 ml per minute .
+administration of 30 mg of papaverine hydrochloride caused mean graft flow to rise from 35.4 +/- 3.9 to 70 +/- 7.9 ml per minute .
+sodium nitroprusside increases aortocoronary graft flow , the doubling effect of 50 mug of the drug being of the same order of magnitude as that induced by 30 mg of papaverine hydrochloride .
+comparative evaluation of a new disposable rotating membrane oxygenator with bubble oxygenator .
+the comparative in vivo performance of adult-size bubble and rotating membrane oxygenators was evaluated during closed-chest cardiopulmonary bypass for six hours in two groups of dogs .
+the results show that the rotating membrane oxygenator is efficient in oxygen and carbon dioxide transfer with minimal trauma to blood , while platelet destruction and hemolysis were marked with the bubble oxygenator .
+cerebral , cardiac , and respiratory complications were frequent with the bubble oxygenator and absent with the membrane oxygenator .
+adrenergic drug-receptor interaction in the presence of strontium ( sr++ ) in mammalian myocardium .
+the specificity of ca++ for the interaction of beta adrenergic agonists with their receptors in rabbit right atrial muscle was evaluated .
+this was accomplished by substituting ca++ by an equimolar concentration of sr++ .
+dose-response curves which demonstrate the effect of norepinephrine and isoproterenol on the rate of electrical activity in the presence of ca++ or sr++ were made .
+in addition , the antagonistic action of propranolol ( 1 x 10 ( -7 ) m ) in a ca++-containing or sr++-containing medium was determined .
+the results clearly demonstrate that sr++ can effectively substitute for ca++ in maintaining electrical and mechanical activity in cardiac muscle .
+also , norepinephrine and isoproterenol can increase the rate of electrical activity in a ca++ or sr++-containing medium .
+this effect of these beta agonists is mediated through the beta-receptors since propranolol effectively blocked their action .
+it appears that ca++ per se is not required for beta agonist or antagonist-receptor interaction in cardiac muscle .
+the results are discussed in relation to the dependency on extracellular ca++ for beta agonists to cause a change in the rate of electrical activity after receptor occupancy .
+effects of isoprenaline and phenylephrine on plasma potassium : role of the liver .
+a dog liver preparation in situ was used .
+intravenous infusion of isoprenaline caused a decrease of plasma potassium levels , which was preceded , in some of the animals infused with higher doses , by a rise in plasma potassium .
+propranolol abolished both these effects of isoprenaline , whereas phentolamine was devoided of effects .
+liver potassium was not affected by isoprenaline infusions .
+phenylephrine caused release of potassium from the liver ; this effect was blocked by phentolamine , but not by propranolol .
+combination of phenylephrine and isoprenaline induced a super-additive hyperkalemia .
+analysis of these results led to the conclusion that the rise in plasma potassium due to phenylephrine might reflect a direct kalemotropic effect and an indirect hypoxemic effect .
+isoprenaline seems to increase the hypoxemia caused by phenylephrine by opening the intrahepatic vascular shunts .
+benzodiazepines and amphetamine on avoidance behaviour in mice .
+six benzodiazepine derivatives , given alone or in combination with amphetamine , were tested in mice subjected to five 100-trial avoidance sessions in the shuttle-box .
+all derivatives , execpt bromazepam , showed some facilitating effects on avoidance responding when given alone .
+facilitation was particularly evident following the administration of chlordiazepoxide ( 2.5 mg/kg ) , medazepam ( 10 mg/kg ) and nitrazepam ( 0.25 , 0.5 and 1 mg/kg ) .
+favourable effects were obtained by combining each benzodiazepine compound with amphetamine .
+the levels of avoidance respinses were usually higher under benzodiazepine-amphetamine combinations than under benzodiazepines alone .
+[ age related effects of furosemide in the rat ] .
+furosemide ( 6 mg/kg i.p. ) increases the renal excretion of water , osmotic active substances , sodium and chloride in 5 to 33 day old rats more than in adults .
+the dose-response-relations are the same in rats of all age groups : 6 mg/kg of furosemide i.p. are very effective , an increase in dose to 30-60 mg/kg i.p. is not followed by a significantly higher efficacy .
+the increase in the renal excretion of potassium , hydrogen ions , ammonium and hydrogen carbonate by furosemide is also small in young rats .
+the effect of sulfhydryl reagents on the heart rate and coronary flow of the isolated perfused guinea-pig heart .
+the action of a number of compounds able to react with thiols was tested on guinea-pig hearts perfused at constant pressure .
+the sh reagents used were nano2 , oxidized glutathione , cystamine , diamide , 1,5-difluoro-2,4-dinitrobenzene , nitroglycerol , sodium nitroferricyanide and hgcl2. 6,6'-dithiodinicotinic acid , an sh reagent that does not penetrate the cell , produced no effect .
+all the other sh reagents produced an increase in coronary flow .
+all except oxidized glutathione and nitroglycerol increased the heart rate .
+the increase in heart rate and oxygen consumption could be completely blocked by dichloroisoproterenol ; the increase in coronary flow was not affected .
+difluorodinitrobenzene , diamide , cystamine and nano2 significantly decreased the acid-soluble thiol content of the heart .
+for these compounds , there was a significant correlation between the decrease in coronary flow and the decrease in thiols .
+we conclude that in the isolated heart , most sh reagents , if used at the appropriate concentration , will increase the heart rate , probably by relaasing catecholamines .
+they will also decrease the coronary resistance , probably by a direct effect on the coronary vessels .
+metabolic inhibition and adrenoceptor interconversion .
+the adrenergic receptor responses of isolated strips of iris dilator muscle from rabbits were studied .
+an alpha agonist , norepinephrine and a beta agonist , isoprenaline , were used to assess adrenergic sensitivity before and after pretreatment of tissues with metabolic inhibitors at 22 , 29 and 37 degrees c .
+the metabolic inhibitors used were iodoacetic acid and dinitrophenol .
+temperature change altered adrenoceptor sensitivity in the same manner before and after metabolic inhibition .
+iodoacetic acid ( 10.4 mug/ml ) pretreatment increased both alpha and beta responses .
+dinitrophenol ( 1.8 mug/ml ) pretreatment increased alpha and decreased beta responsiveness .
+the results obtained indicate that some metabolic process altered by dinitrophenol may be involved in this adrenoceptor interconversion seen when temperature is changed .
+this supports the theory that local environment determines the drug sensitivity ( alpha or beta ) of a single adrenergic receptor .
+the influence of temperature increase , elevation of extracellular h+-concentration , and of triiodothyronine on the actions of phenylephrine , histamine , and beta-sympathomimetic drugs on rabbit aortic strips .
+in the isolated preparation from the rabbit thoracic aorta , the affinities of the vasoconstrictor agents phenylephrine and histamine , as well as of the vasodilator beta-sympathomimetic drugs isoprenaline , fenoterol ( th 1165a ) , terbutaline , and salbutamol under the conditions of temperature increase , triiodothyronine and decrease of extracellular ph were investigated .
+it was observed that ( 1 ) a temperature increase from 25 degrees to 42 degrees c significantly indreased the maximal tension evoked by histamine , whereas that induced by the alpha-sympathomimetic drug phenylephrine was not altered significantly ; the maximal relaxation caused by beta-sympathomimetic drugs either at 25 degrees or at 42 degrees c did not differ from one another ; ( 2 ) the affinities of histamine , phenylephrine and of the beta-sympathomimetic drugs isoprenaline , fenoterol , terbutaline , and salbutamol each were comparable at either 25 degrees or 42 degrees c ; the rank order of efficacy of the beta-sympathomimetic drugs is isoprenaline greater than fenoterol greater than salbutamol greater than terbutaline ; ( 3 ) a decrease of the ph from 7.37 to 7.15 diminished the affinities of histamine and of the beta sympathomimetic drugs whereas that of the alpha-adrenergic drug phenylephrine was not altered .
+a further decrease of the ph to 6.8 diminished additionally the affinity of histamine and of isoprenaline , and especially that of the other beta-sympathomimetic drugs to such an extent that in the latter case complete dose-response curves could not be determined any more ; ( 4 ) pretreatment of the animals with 0.4 mg/kg of triiodothyronine ( t3 ) for two days , which strongly depressed the tension induced by either histamine or phenylephrine , did not alter the affinity of both drugs ; t3 in vitro ( 10 ( -6 ) m ) only diminished the affinity of histamine but left that of phenylephrine unaltered ; pretreatment for two days with 0.2 mg/kg of t3 yielded a significant diminution of the pd2-values for two beta-sympathomimetic drugs investigated , namely isoprenaline and fenoterol ; also the administration of t3 in vitro in a final concentration of 10 ( -6 ) m resulted in a diminution of the affinity of both beta-sympathomimetic drugs ; ( 5 ) the results obtained show that also on the aorta beta-adrenoceptor stimulants are dependent on the metabolic state while alpha-adrenoceptor stimulants are not .
+influence of ph on the contractor effect of convulsant barbiturate on frog lung .
+pentobarbial , thiopental and the convulsant 5-ethyl-5- ( 2-cyclohexylideneethyl ) barbituric acid ( cheb ) were tested for contractor effect on the isolated lung of the fullfrog at ph 7.0 ( 7 % co2 and 20 mm hco3- ) and ph 8.4 ( 0.3 % co2 and 20mm hco3- ) .
+cheb was a potent contractor , thiopental a feeble contractor , and pentobarbital lacked contractor effect .
+the contractor potencies of both cheb and thiopental were greater at the more acid ph .
+the potencies of formally charged agonists such as acetylcholine and k+ were not altered by the ph differences employed in these experiments .
+the pka of cheb was found to be 8.18 at 15 degrees c and 8.03 at 27 degrees c .
+calculation of concentration-effect relationships of ionized and nonionized cheb showed that only the nonionized cheb was responsible for the contractor effect .
+action of six commonly used benzodiazepines on isolated guinea-pig ileum preparation .
+the spasmolytic activity of six commonly used benzodiazepines was investigated on isolated guinea-pig ileum preparation .
+all six substances proved to be non-competitive antagonists of carbachol and barium chloride , the pd'2 values ranging between 3.23 and 4.37 in the presence of either agonist .
+the significance of these findings is discussed .
+electrical events associated with the action of nicotine at the adrenergic nerve terminal .
+nicotine perfused through the coronary circulation of the isolated atropinized cat heart elicits antidromic activity in the cardiac sympathetic nerves .
+the pattern of discharge varies in a complex fashion with dose .
+at low concentrations , activity may last up to 10 min , whereas at high doses the antidromic response may last only a few seconds .
+sympathetic transmitter is released into the perfusion fluid .
+there is dissociation between the amount of transmitter that overflows from the heart and the total antidromic activity with increasing dose of nicotine .
+with smaller doses of nicotine , the magnitude of the antidromic activity probably indicates the level of depolarization of the nerve terminal .
+injection of greater doses of nicotine causes still greater transmitter release but not the generation of antidromic impulses , due presumably to persistent depolarization below a critical level .
+during the nicotine infusion and immediately afterwards , the antidromic response to acetylcholine and the effector responses associated with the adrenergic transmitter release by acetylcholine and sympathetic nerve stimulation were blocked .
+the rates of recovery of these responses were similar with a half-time of 4 to 5 min .
+although the antidromic response to kcl was blocked during the nicotine infusion , it recovered more rapidly .
+within 1-1.5 min , the antidromic response to kcl tended to exceed control levels .
+it is proposed that nicotine causes a prolonged depolarization of the membrane of the adrenergic nerve terminal .
+the site of action of nicotine , the basis of its prolonged action , and the interrelationship of this depolarization with transmitter release and intracellular uptake are discussed .
+positive inotropic effect of insulin on rabbit auricle in vitro .
+water soluble pig insulin ( 4 x 10 ( -8 ) to 4 x 10 ( -7 ) g/ml ) produced a marked and long-lasting increase in the contractile force of the rabbit auricle in vitro .
+once the maximum effect for a given insulin concentration had been reached , addition of more insulin did not produce any further increase in inotropic effect .
+insulin was without effect in reserpinized animals .
+inhibition of cardiac beta-receptors by propranolol suppressed the positive inotropic effect of insulin .
+these findings support the hypothesis that insulin releases catecholamines from the myocardium .
+ionic basis for intracellular 14c-nicotine accumulation in slices from different rat brain areas .
+the effects of ionic alterations on the accumulation , distribution and movements of 14c-nicotine in slices from rat brain striatum , hypothalamus , cortex and cerebellum were studied .
+the uptake of 14c-nicotone is not dependent upon na+ present in the incubation fluid because a k+-substituted ( o-na+ ) solution increased the 14c-nicotine tissue space , a tris-substituted ( o-na+ ) solution decreased the 14c-nicotine tissue space and a sucrose-substituted ( o-na+ ) solution did not change the amount of 14c-nicotine taken up when compared to the 14c-nicotine tissue space obtained in a normal incubation solution .
+however , all three na+-free solutions elicited a sustained decrease in 14c-nicotine efflux .
+the increase in 14c-nicotine space produced in a k+-substituted ( o-na+ ) solution was present primarily in the slower component of a two-component washout , whereas the decrease produced in a tris-substituted ( o-na+ ) solution produced an equal percentage decrease in the size of both components .
+most of the observed effects could be attributed to a linear relationship between the logarithm of the intracellular k+ concentration and the 14c-nicotine tissue space .
+in conclusion , it appears that there is an intracellular binding site for nicotine and that the degree of binding is dependent upon the concentration of k+ .
+mechanism of the antidiuretic effect of beta-adrenergic stimulation in man .
+beta-adrenergic stimulation with isoproterenol hydrochloride in animals causes an antidiuresis similar to antidiuretic hormone .
+this investigation was undertaken to determine whether isoproterenol inhibits water diuresis in man .
+seven young male volunteers were studied during water diuresis in three phases : ( 1 ) water-loading , ( 2 ) water-loading plus isoproterenol , and ( 3 ) water-loading plus isoproterenol plus propranolol hydrochloride .
+antidiuresis occurred 20 minutes following isoproterenol infusion ( 0.03mug to 0.06mug/kg/min ) from a mean of 19.4 to 2.0 ml/min .
+we found that antidiuresis is due to the hormonal ( antidiuretic hormone ) and nonhormonal changes ( decreased glomerular filtration rate and renal plasma flow ) .
+these in turn are due to the cardiovascular effects of the drug .
+renal acidification in sickle cell trait .
+nine sickle cell trait and nine control subjects underwent six-hour ammonium chloride acid loading .
+maximal urine osmolality and renal hemodynamics were studied separately .
+base line arterial ph , carbon dioxide pressure ( pco2 ) , and [ hco3 ] were normal and comparable in the two groups .
+after ammonium chloride loading , urine ph decreased to 5.3 or less in all , and maximal excretion of ammonium and titratable and net acid was comparable as was urine minus blood pco2 after bicarbonate loading .
+the ammonium chloride acidosis caused a small decrease in red blood cell 2,3-diphosphoglycerate levels but no alteration in oxygen pressure at 50 % saturation at ph 7.4 , sickling , or adverse effects .
+control and sickle cell trait subjects had comparable renal hemodynamics but maximal urine osmolality was lower in sickle-cell trait subjects .
+adults with sickle cell trait have diminished renal concentrating ability and normal renal acidification and hemodynamics .
+therapeutic implications of gentamicin accumulation in severly diseased kidneys .
+we evaluated the influence of severe disease in human kidneys ( 12 patients ) on gentamicin sulfate accumulation characteristics in such tissue and compared the results with intrarenal tissue concentration data derived from the study of healthy dogs ( 54 kidneys ) during variation in hydration and urinary ph .
+our results indicate that , in the management of pyelonephritis complicating preexisting renal disease , if the minimal inhibitory gentamicin concentration for an infecting organism is greater than the usual therapeutic an nontoxic serum levels of the compound , then it may be appropriate to use alternate antibiotics that demonstrate lesser reduction in tissue drug accumulation in diseased kidneys .
+[ therapy of impending premature labor and delivery ] .
+[ relationships of carbohydrates/lipid metabolism and function of the fetoplacental unit during administration of th 1165a ( partusisten ) ] .
+[ proceedings : effect of beta-mimetics on uteroplacental hemodynamics ] .
+[ effect of labor inhibitor th 1165 a ( partusisten ) on cardiovascular parameters , blood gases and ph values of mother and fetus in animal experiments ] .
+[ first results of preventive tocolytic agent administration in twin pregnancies ] .
+[ cerclage successes in various indications. cerclage and tocolysis ] .
+[ therapeutic aspects of chronic placental insufficiency ] .
+[ acid-base status and blood picture in post-mature newborn infants ] .
+[ indications for cesarean section : indication and status of the newborn infant after surgery ] .
+[ is vaginal breech delivery still justified ? ] .
+[ labor induction in high-risk labors using prostaglandin f2alpha with subsequent determination of oxygen consumption in the newborn infant ] .
+[ enzymes in the cervix mucus ] .
+the influence of ph on the growth and stability of transmissible gastroenteritis virus in vitro .
+the influence of ph on the growth of transmissible gastroenteritis virus ( tgev ) in adult pig thyroid cell culture , and on the stability of the virus was studied .
+at ph 7.2 and 100 fold higher than those at ph 8.0 .
+the adsorption , penetration and uncoating steps of the viral replicative cycle were shown to be unaffected by ph variation .
+synthesis of tgev rna during the first 12 hours post infection was found to be unaffected by ph variation between the range 6.5-8.0 .
+after 12 hours breakdown of this rna appeared to occur in cultures held at ph 7.2 and 8.0 but not at ph 6.5 .
+when incubated at 37 degrees c for 24 hours the virus infectivity was found to be least affected by ph 6.5 but when kept at 4 degrees c for the same length of time , the virus infectivity remained constant between ph 5.0 and ph 8.0 .
+the influence of physicochemical factors on the thermal inactivation of murine interferon .
+the degradation of biological activity of virus-induced murine interferon was determined in linear nonisothermal and multiple isothermal tests .
+the stabilizing effect of ph during heating on interferon in solution was greatest at low ph , such that ph 2 greater than ph 5 greater than ph 7 greater than or equal to ph 9 ; freeze-dried preparations of interferon were also more heat-stable at acid ph than at neutral ph .
+heat stability was a function of the h+-ion concentration rather than the ionic composition of the buffer ; interferon solutions containing monovalent cations with different ionic radii had similar heat stability .
+a change in the h+ ion concentration was a critical event during the cooling of heated interferon : a shift in the direction of acidity contributed to stability whereas a shift towards alkalinity led to inactivation .
+the rate of cooling of heated interferon significantly influenced its residual activity .
+rapid cooling and sudden freezing decreased the residual activities of interferons at ph 2 and 9 more than `` normal '' cooling , an effect not observed at ph 7 .
+interferon heated to 80degree c could not be reactivated at 40degree c or 55degree c .
+interferon of higher apparent molecular weight was more heat-stable than that with lower apparent molecular weight .
+it is postulated that the physicochemical alterations in the aqueous environment significantly affecting the stability of interferon operate by producing changes in the size and/or conformation of interferon molecules .
+a model is proposed that relates thermal inactivation to different possible molecular states of interferon .
+isoelectric focusing of herpes simplex virus .
+herpes simplex virus was inserted into a preformed stable ph gradient and electrofocused for about one hour .
+dextran was used as the density gradient forming agent .
+virions banded at ph 4.9+/-0.1 and nucleocapsids at 4.1+/-0.05 .
+about 10-20 per cent of infective virus was recovered .
+effect of ph on the growth and cytopathogenicity of avian infectious bronchitis virus in chick kidney cells .
+the growth of avian infectious bronchitis virus ( ibv ) in chick kidney cells at different ph values in the range 6.0-9.0 demonstrated that although the virus was released at a much faster rate at the higher ph values the titre tended to drop more quickly .
+at the acid ph values the virus was released more slowly but reached a maximum titre similar to that at the higher ph values and showed only minimum reduction in infectivity up to 49 hours post inoculation .
+the stability of virus in tissue culture medium was shown to be directly related to ph 6.0-8.0 , being more stable at the acid ph values .
+the degree of cytopathogenicity induced in chick kidney cells following infection with ibv was directly related to the ph at which the cells were incubated , occurring earlier and more extensively in cells at the higher ph values .
+cell macromolecule synthesis in chick kidney cells was inhibited following infection with ibv and was apparently due to cell damage and death .
+an infrared and x-ray diffractometric study of the incorporation of fluoride into hydorxyapatite under conditions of the cyclic variation of ph .
+eugenol improvement due to aging .
+a laboratory appraisal .
+the characteristics of eugenol for dental use appear to improve with age .
+exposure to air and light causes certain chemical and physical changes , but the exact nature of the age improvement requires further elucidation .
+nursing administrators ' annual conference .
+effective delegation .
+effect of prednisolone and salicyclic acid on ionic fluxes across the human stomach .
+we compared ionic fluxes across human gastric mucosa after instillation of test solutions of isotonic hydrochloric acid alone or containing salicylic acid , or prednisolone or both .
+prednisolone produced no alteration in fluxes of h+ and na+ ions compared with controls .
+salicyclic acid induced a significant net loss of h+ ions and gain of na+ ions indicating alteration of the gastric mucosal barrier .
+combined salicyclic acid plus prednisolone produced no increase in permeability of gastric mucosa to h+ and na+ ions or to salicylic acid itself .
+prednisolone was not appreciably absorbed from the stomach while salicylic acid was well absorbed .
+combination of salicylic acid and prednisolone did not increase absorption of either drug .
+neither salicylic acid nor prednisolone solutions alone or combined caused an increase in pepsin output over that due to 160 mm hcl .
+salicylic acid resulted in a significant fall in potential difference compared to control while prednisolone produced no change in the one subject studied .
+in acute studies in man prednisolone is not absorbed from the stomach , does not itself affect the gastric mucosal barrier nor pepsin output nor does it enhance the absorption of or effect of salicylic acid on gastric ionic fluxes or pepsin output .
+undescended testis : congenital or acquired ?
+salazopyrin in the treatment of scleroderma .
+effects of altering monoamine metabolism on the adrenocortical response to hypoxia .
+anesthetized dogs , which had been prepared with lumboadrenal vein cannulae , were intravenously infused with monoamine axidase ( alphaeta ) , tryptophan hydroxylase ( pcpa ) or tyrosine hydroxylase ( alphamt ) inhibitors 30 min prior to exposure to 10 % oxygen at ground level .
+these studies were designed to ascertain the role of the neurotransmitters , serotonin and norepinephrine , in the adrenocortical response to hypoxia .
+in normoxic animals , alphaeta decreased basal cortisol secretion and increased systolic pressure , whereas pcpa and alphamt were essentially without afffect on these parameters .
+all inhibitors prevented the rise in cortisol secretion usually observed in hypoxic dogs .
+alpha eta appeared to inhibit the adrenocortical response to hypoxia as a result of its potent pressore activity , while pcpa and alphamt inhibited cortisol secretion by interfering with the synthesis of serotonin and norepinephrine , respictively .
+these data suggest that substances which alter the content and/or turnover of brain monoamines abolish the hypoxic rise in cortisol secretion and thus would lower the resistance of the animal to this stressor .
+calcitonin-sensitive adenylate cyclase in rat renal tubular membranes .
+1. renal tubular membranes from rat kidneys were prepared , and adenylate cyclase activity was measured under basal conditions , after stimulation by naf or salmon calcitonin .
+apparent km value of the enzyme for hormone-linked receptor was close to 1 x 10 ( -8 ) m .
+2. the system was sensitive to temperature and ph .
+ph was found to act both on affinity for salmon calcitonin-linked receptor and maximum stimulation , suggesting an effect of ph on hormone-receptor binding and on a subsequent step .
+3. kcl was without effect areas whereas cocl and cacl2 above 100 mum and mncl2 above 1 mum inhibited f- -and salmon calcitonin-sensitive adenylate cyclase activities .
+the ca2+ inhibition of the response reflected a fall in maximum stimulation and not a loss of affinity of salmon calcitonin-linked receptor for the enzyme .
+4. the measurement of salmon calcitonin-sensitive adenylate cyclase activity as a function of atp concentration showed that the hormone increases the maximum velocity of the adenylate cyclase .
+gtp , itp and xtp at 200 mum did not modify basal , salmon calcitonin- and parathyroid hormone-sensitive adenylate cyclase activities .
+5. basal , salmon calcitonin- and f- -sensitive adenylate cyclase activities decreased at mg2+ concentrations below 10 mm .
+high concentrations of mg2+ ( 100 mm ) led to an inhibition of the f- -stimulated enzyme .
+6. salmon calcitonin-linked receptor had a greater affinity for adenylate cyclase than human or porcine calcitonin-linked receptors .
+there was no additive effect of these three calcitonin peptides whereas parathyroid hormone added to salmon calcitonin increased adenylate cyclase activity , thus showing that both hormones bound to different membrane receptors .
+human calcitonin fragments had no effect on adenylate cyclase activity .
+7. salmon calcitonin-stimulated adenylate cyclase activity decreased with the preincubation time .
+this was due to progressive degradation of the hormone and not to the rate of binding to membrane receptors .
+stabilization of rat liver tyrosine aminotransferase by tetracycline .
+rat liver tyrosine aminotransferase was purified 200-fold and an antiserum raised against it in rabbits .
+2. hepatic tyrosine aminotransferase activity was increased fourfold by tyrosine , twofold by tetracycline , 2.5-fold by cortisone 21-acetate and ninefold by a combination of tyrosine and cortisol administered intraperitoneally to rats .
+3. radioimmunoassay with 14c-labelled tyrosine aminotransferase , in conjunction with rabbit antiserum against the enzyme , revealed that cortisol stimulates the synthesis of the enzyme de novo , but that tetracycline has no such effect .
+4. incubation of rat liver homogenates with purified tyrosine aminotransferase in vitro leads to a rapid inactivation of the enzyme , which tetracycline partially inhibits .
+5. the inactivation is brought about by intact lysosomes , and the addition of 10mm-cysteine increases the rate of enzyme inactivation , which is further markedly increased by 10mm-mg2+ and 10mm-atp .
+here again tetracycline partially inhibits the decay rate , leading to the inference that the increase of tyrosine aminotransferase activity in vivo by tetracycline is brought about by the latter inhibiting the lysosomal catheptic action .
+factors regulating amino acid release from extrasplanchnic tissues in the rat .
+interactions of alanine and glutamine .
+1. factors regulating the release of alanine and glutamine in vivo were investigated in starved rats by removing the liver from the circulation and monitoring blood metabolite changes for 30 min. 2 .
+alanine and glutamine were the predominant amino acids released into the circulation in this preparation .
+3. dichloroacetate , an activator of pyruvate dehydrogenase , inhibited net alanine release : it also interfered with the metabolism of the branched-chain amino acids valine , leucine and isoleucine .
+4. l-cycloserine , an inhibitor of alanine aminotransferase , decreased alanine accumulation by 80 % after functional hepatectomy , whereas methionine sulphoximine , an inhibitor of glutamine synthetase , decreased glutamine accumulation by the same amount .
+5. it was concluded that : ( a ) the alanine aminotransferase and the glutamine synthetase pathways respectively were responsible for 80 % of the alanine and glutamine released into the circulation by the extrasplanchnic tissues , and extrahepatic proteolysis could account for a maximum of 20 % ; ( b ) alanine formation by the peripheral tissues was dependent on availability of pyruvate and not of glutamate ; ( c ) glutamate availability could influence glutamine formation subject , possibly , to renal control .
+amino acids attached to transfer ribonucleic acid in vivo .
+1. trna was extracted from rabbit liver by both the phenol and diethyl pyrocarbonate methods under conditions preventing deacylation of the amino acids attached in vivo .
+2. after deacylation 12 amino acids were determined by gas-liquid chromatography , by using the flame-ionization and nitrogen-sensitive thermionic detectors .
+3. comparison of the distribution of 12 amino acids attached to trna with those contained in total tissue protein and in the free pool showed little correlation .
+4. results for the enzymic charging assay for trna in vitro did not correlate satisfactorily with the analysis of amino acids attached to trna in vivo .
+marked differences were ntoed in comparison made between our own and other published results .
+initial rates of pyruvate transport in mitochondria determined by an `` inhibitor-stop '' technique .
+an `` inhibitor-stop '' technique has been developed for measuring initial rates of pyruvate transport into mitochondria .
+the technique uses alpha-cyano-3-hydroxycinnamate as the inhibitor and separates the mitochondria from the radioactive medium by millipore filtration .
+observed rates depend on availability of hydroxyl and other exchangeable anions within the mitochondrial matrix .
+a comparative study between a chondroitinase b and a chondroitinase ac from flavobacterium heparinum : isolation of a chondroitinase ac-susceptible dodecasaccharide from chondroitin sulphate b .
+a chondroitinase that degrades only chondroitin sulphate b was isolated from flavobacterium heparinum , and separated from a constitutive chondroitinase ac also present in extracts of f. heparinum .
+the enzyme acts only on chondroitin sulphate b , producing oligo- and tetra-saccharides , plus an unsaturated 4-sulphated disaccharide ( deltadi-4s ) .
+the oligosaccharide fraction ( mol. wt. 3000 ) is susceptible to chondroitinase ac , producing mainly deltadi-4s .
+the chondroitinase b is distinguished from chondroitinase ac by several properties , such as the effect of certain metal ions , temperature for optimal activity , and susceptibility to increasing salt concentrations .
+the enzyme is induced in f. heparinum by all the chondroitin sulphates , as well as by the disaccharides prepared from the chondroitins .
+the mechanism of induction of the enzyme and the structure of chondroitin sulphate b are discussed in relation to these results .
+subtilopeptidase a isoenzyme system .
+interaction with serum components and its importance for quantitative immunoelectrophoresis .
+a method was developed which involved electroimmunoassay and crossed immunoelectrophoresis of subtilopeptidase a ( ec 3.4.21.14 ) .
+initial trials with unfractionated antiserum were not successful and interaction of the enzyme with non-immunoglobulin serum components were shown to be the cause of the failures .
+quantitative immunoelectrophoresis was possible when purified immunoglobulins were used .
+a ph of 6.5 ( lower than the usual ph 8.6 ) was necessary to obtain a proper baseline definition .
+subtilopeptidase a was confirmed as a multiple isoenzyme system .
+qualitative inter-batch variations were detected .
+di-isopropyl phosphorofluoridate inhibition altered the electrophoretic pattern , but no loss of antigenic determinants was observed .
+fructose 1,6-diphosphate aldolase from rabbit muscle .
+effect of ph on the rate of formation and on the equilibrium concentration of the carbanion intermediate .
+the rate of oxidation of ferricyanide of the aldolase-dihydroxyacetone phosphate complex was measured under different conditions .
+the following conclusions are drawn .
+1. in the cleavage of fructose diphosphate , catalysed by native aldolase , the steady-state concentration of the enzyme-dihydroxyacetone phosphate carbanion intermediate represents less than 6 % of the total enzyme-substrate intermediates .
+2. fructose diphosphate and dihydroxyacetone phosphate compete for the four catalytic sites on aldolase , the binding of fructose diphosphate being about twice as tight .
+3. the equilibrium concentration of the carbanion intermediate formed by reaction of carboxypeptidase-treated aldolase with dihydroxyacetone phosphate is independent of ph between 5.0 and 9.0 .
+the rates of fromation of the carbanion intermediate and of the reverse reaction are , however , concomitantly increased by increasing ph between 5.0 and 6.5 .
+purification and characterization of a collagenase extracted from rabbit tumours .
+a collagenase was purified from homogenates of v2 ascites-cell carcinoma growing in rabbit muscle .
+( nh4 ) 2so4 precipitation , ion-exchange and gel-filtration chromatography , and affinity chromatography ( by using the cb7 cnbr ) cleavage fragment of alpha 1 ( i ) collagen linked to agarose ) gave a 268000-fold purification and a sevenfold increase in total enzyme units recovered .
+the specific activity , defined as mumol of collagen in solution cleaved/h per mg of enzyme at 35 degrees c , was 1.74.2 .
+the collagenase had a broad ph optimum from ph7.0 to 9.5 , and a mol.wt. of between 33000 and 35000 .
+it was inhibited by dithiothreitol , l-cysteine , d-penicillamine , edta and 1,10-phenanthroline , and by both rabbit and human serum .
+3. removal of cations by a chelating resin ( chelex 100 ) produced as inactive enzyme that could be reactiviated by the addition of ca2+ ions at concentrations as low as 1mum .
+other bivalent cations were not effective .
+4. the purified collagenase cleaved peptides alpha2 and alpha1-cb7 ( denatured polypeptides of collagen ) at 37 degrees c at one site only .
+[ alpha1 ( i ) ] 2alpha2 and [ alpha1 ( iii ) ] 3 collagens in solution were cleaved at the same site approximately five times more rapidly than [ alpha1 ( ii ) ] 3 .
+5. an inhibitor of the enzyme in the tumour extracts , which was dissociable from the enzyme at the ( nh4 ) 2so4 precipitation step of purification , had a mol. wt. of between 40000 and 50000 but was distinct from the alpha1 trypsin inhibitor .
+6. studies with zonal density-gradient centrifugation suggested that the enzyme was bound to fibrillar substrate ( collagen ) extracellularly , but that it was not associated with enzymes originating in cell mitochondria , microsomal preparations or lysosomes .
+inhibition of leucocytic lysosomal enzymes by glycosaminoglycans in vitro .
+1. a lysosomal fraction was separated by density-gradient centrifugation from a highly purified human polymorphonuclear leucocyte suspension .
+2. some 23 different lysosomal enzymes were assayed for activity in the presence of various concentrations of glycosaminoglycans .
+3. the 21 acid hydrolases assayed were strongly inhibited to different degrees by low ( 0-12 mmol/l ) concentrations of glycosaminoglycans in a ph-dependent manner .
+thus inhibitions were stronger below ph4.5 , with activity returning to control values at about ph5.0. 4 .
+on a molar basis , the inhibitory activity for the several glycosaminoglycans studied was : heparin greater than chondroitin sulphate greater than hyaluronic acid .
+5. once the glycosaminoglycan-acid hydrolase complex was formed , it was partially dissociated by slight elevations in the ph of the incubation medium , by increasing the ionic strength of the incubation medium , or by adding several cationic proteins ( e.g. histone , protamine ) .
+6. as leucocytic lysosomes contain large amounts of chondroitin sulphate , and have a strongly acid intragranular ph , we suggest that glycosaminoglycans may modify lysosomal function through the formation of complexes with lysosomal enzymes , by inhibiting the digestive activity of the acid hydrolases when the intralysosomal ph is below their pi .
+methanol poisoning .
+i. the role of formic acid in the development of metabolic acidosis in the monkey and the reversal by 4-methylpyrazole .
+the isolation , purification , and properties of a ribonuclease from normal human urine .
+rapid determination of plasma ammonia using an ion specific electrode .
+glycosyltransferases in human respiratory tissue .
+alterations in subjects with hypersecretion of mucus .
+induction of dt-diaphorase by 2,3,7,8-tetrachlorodibenzo-p-dioxin ( icdd ) .
+activation of wheat germ acetyl coa carboxylase by potassium and rubidium .
+in vitro release of thymine from dna by neocarzinostatin .
+fluroxene ( 2,2,2-trifluoroethyl vinyl ether ) mediated destruction of cytochrome p-450 in vitro .
+covalent binding of trans-stilbene to rat liver microsomes .
+brain enzyme levels during intraperitoneal injections of ammonium acetate .
+effects of stereochemical structures of tetrahydropterins on tyrosine hydroxylase .
+modifications of citrate and isocitrate metabolism in liver mitochondria of ethanol-fed rats .
+[ the effects of 5,6-dihydroxytryptamine on the transport mechanisms of various neurotransmitters or their precursors at the synaptosomal level in the rat mesencephalon ] .
+inhibition of hepatic mixed-function oxidase activity in vitro and in vivo by various thiono-sulfur-containing compounds .
+rabbit erythrocyte membrane interaction with promazine and calcium .
+[ effect of dietetic and hormonal factors on ornithine transaminase and tyrosine transaminase of the chichen liver ] .
+[ on the mechanism of hypothalamic adrenergic mediation. histochemical research ] .
+injuries to the mouth and teeth in an undergraduate population .
+urinary d-glucaric acid excretion and serum gamma-glutamyl transpeptidase activity in alcoholism .
+trial of a long-acting antihistamine in the treatment of coryza .
+circulating levels of prolactin in human breast cancer .
+serum prolactin concentrations were measured by radioimmunoassays in 98 patients with established carcinoma of breast , 12 patients with cystic mastitis and 10 patients with gynaecomastia and compared with that of age matched normal control women .
+the serum prolactin levels in the patients with breast cancer , gynaecomastia or cystic mastitis were observed to be similar to that in normal women .
+it was interesting to note that the levels of prolactin in the luteal phase of the cycle were higher than that in the early follicular phase in normal women .
+effect of aflatoxin b1 on pyridine nucleotides and nadp linked dehydrogenases .
+the effect of a single interaperitoneal injection ( 6 mg/kg body weight ) of aflatoxin b1 in propylene glycol on pyridine nucleotides and ndp linked dehydrogenases was studied 24 h after administration of the toxin .
+the liver showed a decrease in total proteins and pyridine nucleotides though levels of nadp and nadph remained unchanged .
+levels of nad and nadh were decreased .
+the activities of hepatic of hwprix of hepatic malate dehydrogenase ( mdh ) and isocitrate dehydrogenase ( icdh ) were not altered though icdh showed an increase when expressed on protein basis .
+however , there was a significance decrease in the activity of combined hmp dehydrogenases .
+adipose tissue showed increased activities of the hmp dehydrogenasess .
+esterase activity of zinc neutral proteases .
+the hydrolysis of a series of depsipeptides demonstrates that the zinc neutral endopeptidases of bacteria are active esterases .
+esters such as bzgly-ophe-ala , bzgly-oleu-ala , and fa-gly-oleu-nh2 are hydrolyzed at rates three- to eightfold slower than are their exact peptide analogues , when hydrolyzed by thermolysin , bacillus subtilis neutral protease and the neutral protease from aeromonas proteolytica .
+ester hydrolysis by zinc neutral proteases follows the characteristic preference for hydrophobic amino acids adjacent to the site of cleavage , discerned from the hydrolysis of peptide substrates .
+removal of zinc from thermolysin abolishes the esterase activity of the native enzyme .
+among the metals examined , only co2+ and zn2+ restore esterase activity to any significant extent , co2+ restoring 50 % and zn2+ 100 % of the native thermolysin activity .
+the hydrolysis of esters and peptides by thermolysin does not differ with respect to either the binding or catalytic steps .
+substrate specificity , ph-rate profiles , inhibitor , and deuterium isotope effects are identical for both types of substrates .
+the binding of reduced nicotinamide adenine dinucleotide to citrate synthase of escherichia coli k12 .
+citrate synthase from escherichia coli enhances the fluorescence of its allosteric inhibitor , nadh , and shifts the peak of emission of the coenzyme from 457 to 428 nm .
+these effects have been used to measure the binding of nadh to this enzyme under various conditions .
+the dissociation constant for the nadh-citrate synthase complex is about 0.28 mum at ph 6.2 , but increases toward alkaline ph as if binding depends on protonation of a group with a pka of about 7.05 .
+over the ph range 6.2-8.7 , the number of binding sites decreases from about 0.65 to about 0.25 per citrate synthase subunit .
+the midpoint of this transition is at about ph 7.7 , and it may be one reflection of the partial depolymerization of the enzyme which is known to occur in this ph range .
+a gel filtration method has been used to verify that the fluorescence enhancement technique accurately reveals all of the nadh molecules bound to the enzyme in the concentration range of interest .
+nad+ and nadp+ were weak competitive inhibitors of nadh binding at ph 7.8 ( ki values greater than 1 mm ) , but stronger inhibition was shown by 5'-amp and 3'-amp , with ki values of 83 +/- 5 and 65 +/- 4 mum , respectively .
+acetyl-coa , one of the substrates , and kcl , an activator , also inhibit the binding in a weakly cooperative manner .
+all of these effects are consistent with kinetic observations on this system .
+we interpret our results in terms of two types of binding site for nucleotides on citrate synthase : an active site which binds acetyl-coa , the substrate , or its analogue 3'-amp ; and an allosteric site which binds nadh or its analogue 5'-amp and has a lesser affinity for other nicotinamide adenine dinucloetides .
+when the active site is occupied , we propose that nadh can not bind to the allosteric site , but 5'-amp can ; conversely , when nadh is the in the allosteric site , the active site can not be occupied .
+in addition to these two classes of sites , there must be points for interaction with kcl and other salts .
+oxaloacetate , the second substrate , and alpha-ketoglutarate , an inhibitor whose mode of action is believed to be allosteric , have no effect on nadh binding to citrate synthase at ph 7.8 .
+when nadh is bound to citrate synthase , it quenches the intrinsic tryptophan fluorescence of the enzyme .
+the amount of quenching is proportional to the amount of nadh bound , at least up to a binding ratio of 0.50 nadh per enzyme subunit .
+this amount of binding leads to the quenching of 53 +/- 5 % of the enzyme fluorescence , which means that one nadh molecule can quench all the intrinsic fluorescence of the subunit to which it binds .
+the structure of the covalent adduct formed by the interaction of 3-dimethylamino-1-propyne and the flavine of mitochondrial amine oxidase .
+3-dimethylamino-1-propyne irreversibly inactivates mitochondrial monoamine oxidase from bovine liver .
+the inactivation results in the loss of absorption in the 450-500-nm region of the flavine spectrum and a concomitant increase in absorbance at 410 nm .
+for the enzyme-bound adduct epsilon410 = 28000 .
+the spectral properties of the adduct of the liver enzyme with 3-dimethylamino-1-propyne are similar to those observed when the pig kidney enzyme is inactivated with pargyline ( chuang et al. ( 1974 ) , j. biol. chem. 249 , 2381 ) .
+from a proteolytic digest of the enzyme inactivated with labeled inhibitor a flavine peptide has been isolated which contains 1 mol of inactivator/mol of flavine .
+the chemical and spectral properties of the adduct are those of compounds containing the structure -- n -- ch==ch -- ch==n+ less than .
+it was concluded that the flavine-inhibtor adduct is a n-5 substituted dihydroflavine and its structure has been determined .
+the absolute configuration of the amino acids in delta- ( alpha-aminoadipyl ) cysteinylvaline from penicillium chrysogenum .
+radioactive carbon-14 l-alpha-aminoadipic acid , l-cysteine , or l-valine were readily incorporated into the intracellular tripeptide , delta- ( alpha-aminoadipyl ) cysteinylvaline ( acv ) , by washed starved cells of penicillium chrysogenum .
+the labeled acv in each case was oxidized with performic acid and isolated as its corresponding sulfonic acid derivative .
+after acid hydrolysis , the configuration of the component acids was determined by l- and d-amino acid oxidases , which showed the tripeptide ( acv ) from p. chrysogenum to be delta- ( l-aminoadipyl ) -l-cysteinyl-d-valine .
+chromatin-bound protease : degradation of chromosomal proteins under chromatin dissociation conditions .
+a chromatin-bound protease , active in 2 m nacl-5 m urea or 5 m urea alone , was demonstrated in rat liver , kidney , testes , brain , rabbit bone marrow , chicken reticulocyte , and ehrlich ascites chromatin .
+chicken erythrocyte chromatin did not possess any detectable proteolytic activity in salt and urea .
+the proteolytic activity of rat liver chromatin in salt and urea was found to be independent of the methods of chromatin preparation .
+the protease can be inhibited by the serine specific reagents phenylmethanesulfonyl fluoride and diisopropyl fluorophosphate and the alkylating reagent , carbobenzoxyphenylalanine chloromethyl ketone , in the presence of organic solvents at 1 mm concentration .
+the inhibitions of chromatin-bound protease in rat liver by these compounds are irreversible .
+on the other hand , carbobenzoxyphenylalanine and p-nitrophenyl acetate were shown to be reversible inhibitors of rat liver chromatin-bound protease .
+the application of these inhibitors during the dissociation of chromatin by salt and urea may be useful to researchers interested in purifying various chromosomal proteins or to those researchers doing reconstitution studies with labile chromatins .
+atpase of escherichia coli : purification , dissociation , and reconstitution of the active complex from the isolated subunits .
+a simple procedure for the purification of mg2+-stimulated atpase of escherichia coli by fractionation with poly ( ethylene glycols ) and gel filtration is described .
+the enzyme restores atpase-linked reactions to membrane preparations lacking these activities .
+five different polypeptides ( alpha , beta , gamma , delta , epsilon ) are observed in sodium dodecyl sulfate electrophoresis .
+freezing in salt solutions splits the enzyme complex into subunits which do not possess any catalytic activity .
+the presence of different subunits is confirmed by electrophoretic and immunological methods .
+the active enzyme complex can be reconstituted by decreasing the ionic strength in the dissociated sample .
+temperature , ph , protein concentration , and the presence of substrate are each important determinants of the rate and extent of reconstitution .
+the dissociated enzyme has been separated by ion-exchange chromatography into two major fragments .
+fragment ia has a molecular weight of about 100000 and contains the alpha , gamma , and epsilon polypeptides .
+the minor fragment , ib , has about the same molecular weight but contains , besides alpha , gamma , and epsilon , the delta polypeptide .
+fragment ii , with a molecular weight of about 52000 , appears to be identical with the beta polypeptide .
+atpase activity can be reconstituted from fragments ia and ii , whereas the capacity of the atpase to drive energy-dependent processes in depleted membrane vesicles is only restored after incubation of these two fractions with fraction ib , which contains the delta subunit .
+conformation of gonadotropin releasing hormone .
+the conformation of the gonadotropin releasing hormone ( gn-rh ) , whose primary sequence is pglu-his-trp-ser-tyr-gly-leu-arg-pro-glynh2 , and of several of its structural analogues has been studied by circular dichroism , optical rotatory dispersion , and fluorescence spectroscopy .
+the effects of ph , guanidine , and temperature on fluorescence emission have also been examined .
+titration data demonstrate that the histidine and tyrosine residues are free of any mutual interactions .
+the similarity of emission spectra in water and in guanidine hydrochloride solutions precludes significant interactions between the fluorescent groups and other residues .
+neither the temperature nor the ph profiles of the emission intensities of either tyrosine or tryptophan reveal any fixed secondary structure in gn-rh .
+both the extent of alkaline quenching and the distance of 10-11 a calculated from forster energy transfer theory are in accord with a randomly coiled structure with only one residue between tyrosine and tryptophan .
+furthermore , the circular dichroism spectrum and optical rotatory dispersion do not exhibit any contributions from peptide bonds in an ordered structure , although there is a perturbation of the peptide absorption region due to overlapping bands from side-chain chromophores .
+gn-rh , therefore , appears to behave as a random coil polypeptide in water devoid of any intrachain residue interactions .
+this nonordered structure in gn-rh and the lack of any significant differences in the physical-chemical properties of the hormone analogues indicate that a predetermined solution conformation is not required for biological activity .
+in contrast to its behavior in water , gn-rh in trifluoroethanol exhibits a conformational transition , with the formation of a beta structure .
+differences in conformational changes exhibited by several analogues in trifluoroethanol may be relevant to their relative biological activities at the receptor site .
+the thermodynamics of the self-association of the reduced and carboxymethylated form of apo-a-ii from the human high density lipoprotein complex .
+low and high ph form of cadmium carbonic anhydrase determined by nuclear quadrupole interaction .
+the ph dependence of the nuclear quadrupole interaction between the excited 247-kev state in 111cd bound to the active site in human carbonic anhydrase b and the nearest protein surroundings has been studied by means of the nuclear spectroscopic technique of perturbed angular correlation of gamma rays .
+the enzyme has been studied in the ph region 5.6-11.0 at 22 and -196 degrees c .
+the results show that the cd enzyme changes from one form at low ph to another form at high ph both at 22 and -196 degrees c .
+the pk of the transition is 8.9 +/- 0.2 at -196 degrees c and close to 9 at 22 degrees c .
+parallel to this transformation , the esterase activity of the cd enzyme for the hydration of p-nitrophenyl acetate exhibits a ph dependency with a ph of 9.1 +/- 0.2 .
+the sulfonamide inhibitor acetazolamide completely inhibits this activity of the cd enzyme .
+the quadrupole interaction parameters for the cd enzyme are not significantly different at -196 degrees c from those obtained at 22 degrees c .
+a measurement at 0 degrees c ph 5.7 shows , however , a form different from those at 22 degrees c ph 5.6 and -196 degrees c ph 5.7 .
+the change in the quadrupole interaction with ph is , in a simple model , consistent with an ionization of a metal-bound water molecule .
+oxidation-reduction properties of chromatium vinosum high potential iron-sulfur protein .
+the oxidation-reduction properties of the high potential iron-sulfur protein ( hipip ) from chromatium vinosum have been investigated .
+both equilibrium and kinetic measurements demonstrate electron transport by hipip is ph independent in the ph range 7-11 .
+the kinetics of reduction ( potassium ferrocyanide , so2 , s2o42- , sodium ascorbate , and rhodospirillum rubrum cytochrome c2 ) and oxidation ( potassium ferricyanide and rhodospirillium rubrum cytochrome c2 ) of hipip are reported .
+based on the data obtained with different reactants and the influence of ionic strength , ph , and temperature on the kinetics of oxidation and reduction , a number of conclusions can be drawn .
+( 1 ) hipip undergoes rapid outer-sphere electron transfer with no evidence of kinetic complexity and no indication of complex formation with various reactants .
+( 2 ) the site of oxidation of reduced hipip has an apparent negative charge while the site of reduction of oxidized hipip is uncharged .
+( 3 ) hipip appears to interact with a physiological reactant ( r. rubrum cytochrome c2 ) at the same site as nonphysiological oxidants or reductants suggesting single minimum energy pathways for the oxidation and reduction processes .
+( 4 ) based on a comparison of the rates of oxidation and reduction with different reactants , it appears that steric restrictions and differences in oxidation-reduction potential are less important than electrostatic attraction and/or repulsion in determining the absolute rate constants .
+( 5 ) the thermodynamic activation parameters indicate that both oxidation and reduction by the iron hexacyanides are driven entropically with the enthalpic terms making no contribution to hipip oxidation and a small contribution to hipip reduction .
+based on the data reported here and available structural and physical-chemical information , possible mechanisms of the oxidation and reduction of hipip are discussed and their relative merits analyzed .
+the more likely mechanisms include electron transfer via a tyrosine residue , electron transfer through a nonaqueous media to the iron-sulfur chromophore , and direct interaction between the iron-sulfur chromophore and the different oxidants and reductants .
+isolation , chemical , and physical properties of alpha-1-antitrypsin .
+a method of isolation of alpha-1-antitrypsin ( alpha-1-at ) in good yield from normal human plasma is described .
+a key step was affinity chromatography employing an antiserum which had been depleted of alpha-1-at antibodies .
+the final preparations were homogeneous by immunological and physicochemical criteria .
+the specific activity of the purified alpha-1-at was 0.363 mg of active bovine trypsin inhibited per 1.0 mg of inhibitor .
+polyacrylamide gel patterns at both alkaline and acid ph of highly pure preparations frequently , but not invariably , showed multiple hands .
+molecular weight studies by sedimentation equilibrium ultracentrifugation in aqueous buffer and in 6 m guanidine as well as sodium dodecyl sulfate polyacrylamide gel electrophoresis suggest that alpha-1-at is a single polypeptide chain having a molecular weight of 49,500 .
+other physical and chemical properties of the inhibitor are described .
+a limited n-terminal sequence ( glu-asp-pro-gln-gly-asx-ala-ala ) was obtained .
+it was found that alpha-1-at easily forms polymers and higher aggregates when exposed to denaturing agents such as 8 m urea and 6 m guanidine .
+the results suggest that aggregation is determined by both covalent and noncovalent forces .
