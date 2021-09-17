@@ -35,7 +35,7 @@ def build_data(names):
     with open("./data/word_list_{}.txt".format(embed_set), 'w') as f:
         f.write('\n'.join(words))
         print("Word list saved.")
-    embed = [[e[w] for w in words] for e in embed]
+    embed = [[w + ' ' + e[w] for w in words] for e in embed]
     for i in range(len(names)):
         with open("./data/{}_embeds.txt".format(names[i]), 'w') as f:
             f.write('\n'.join(embed[i]))
