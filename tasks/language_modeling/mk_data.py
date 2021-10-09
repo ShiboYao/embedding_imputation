@@ -15,6 +15,7 @@ def sample_pubmed(NUM_SAMPLES):
     
     if not os.path.exists(base_path): os.makedirs(base_path)
     if not os.path.exists(os.path.join(base_path, 'LSI_embeds')): os.makedirs(os.path.join(base_path, 'LSI_embeds'))
+    if not os.path.exists(os.path.join(base_path, 'GCN_embeds')): os.makedirs(os.path.join(base_path, 'GCN_embeds'))
     if not os.path.exists(os.path.join(base_path, 'APPNP_embeds')): os.makedirs(os.path.join(base_path, 'APPNP_embeds'))
     if not os.path.exists(os.path.join(base_path, 'graphs')): os.makedirs(os.path.join(base_path, 'graphs'))
         
