@@ -9,12 +9,19 @@ import torch.onnx
 
 import data
 import model
+import numpy as np
 
 parser = argparse.ArgumentParser(description='PyTorch Wikitext-2 RNN/LSTM/GRU/Transformer Language Model')
-parser.add_argument('--data', type=str, default='./data/wikitext-2',
+parser.add_argument('--data', type=str, default='./data/sampled_20000',
                     help='location of the data corpus')
+parser.add_argument('--verbose', type=str, default=False,
+                    help='print results during training')
 parser.add_argument('--model', type=str, default='LSTM',
                     help='type of recurrent net (RNN_TANH, RNN_RELU, LSTM, GRU, Transformer)')
+parser.add_argument('--embed_path', type=str, default='',
+                    help='imputed embedding path')
+parser.add_argument('--base', type=str, default='glove',
+                    help='base embedding name')
 parser.add_argument('--emsize', type=int, default=200,
                     help='size of word embeddings')
 parser.add_argument('--nhid', type=int, default=200,
@@ -53,6 +60,9 @@ parser.add_argument('--dry-run', action='store_true',
 
 args = parser.parse_args()
 
+dim_dict = {'glove':200,'fast':300,'google':300}
+args.emsize = dim_dict[args.base]
+
 # Set the random seed manually for reproducibility.
 torch.manual_seed(args.seed)
 if torch.cuda.is_available():
@@ -65,7 +75,42 @@ device = torch.device("cuda" if args.cuda else "cpu")
 # Load data
 ###############################################################################
 
+
+def generate_random_embed(embed_dim):
+    
+    vec = np.random.randn(embed_dim)
+    vec = vec / float(np.linalg.norm(vec) + 1e-6)
+    #vec = np.ones(embed_dim)
+    return vec.tolist()
+    
+def create_embed_dict(path):
+    
+    embed_dict = dict()
+    with open(path, 'r') as f:
+        lines = f.readlines()
+    
+    lines = [line.split(' ') for line in lines]
+
+    for line in lines:
+        embed_dict[line[0]] = list(map(float,line[1:]))
+    
+    return embed_dict
+
+path = args.embed_path
 corpus = data.Corpus(args.data)
+words = corpus.dictionary.idx2word
+embed_dict = create_embed_dict(path)
+W = []
+missing_cnt = 0
+for word in words:
+    if word not in embed_dict:
+        missing_cnt += 1
+        random_embed = generate_random_embed(args.emsize)
+        W.append(random_embed)
+    else:
+        W.append(embed_dict[word])
+W = np.array(W)
+if args.verbose == True: print('Number of words not in the embedding set: {}'.format(missing_cnt))
 
 # Starting from sequential data, batchify arranges the dataset into columns.
 # For instance, with the alphabet as the sequence and batch size 4, we'd get
@@ -101,7 +146,7 @@ ntokens = len(corpus.dictionary)
 if args.model == 'Transformer':
     model = model.TransformerModel(ntokens, args.emsize, args.nhead, args.nhid, args.nlayers, args.dropout).to(device)
 else:
-    model = model.RNNModel(args.model, ntokens, args.emsize, args.nhid, args.nlayers, args.dropout, args.tied).to(device)
+    model = model.RNNModel(W, args.model, ntokens, args.emsize, args.nhid, args.nlayers, args.dropout, args.tied).to(device)
 
 criterion = nn.NLLLoss()
 
@@ -180,6 +225,7 @@ def train():
         # `clip_grad_norm` helps prevent the exploding gradient problem in RNNs / LSTMs.
         torch.nn.utils.clip_grad_norm_(model.parameters(), args.clip)
         for p in model.parameters():
+            if p.requires_grad == False: continue
             p.data.add_(p.grad, alpha=-lr)
 
         total_loss += loss.item()
@@ -187,10 +233,11 @@ def train():
         if batch % args.log_interval == 0 and batch > 0:
             cur_loss = total_loss / args.log_interval
             elapsed = time.time() - start_time
-            print('| epoch {:3d} | {:5d}/{:5d} batches | lr {:02.2f} | ms/batch {:5.2f} | '
-                    'loss {:5.2f} | ppl {:8.2f}'.format(
-                epoch, batch, len(train_data) // args.bptt, lr,
-                elapsed * 1000 / args.log_interval, cur_loss, math.exp(cur_loss)))
+            if args.verbose == True:
+                print('| epoch {:3d} | {:5d}/{:5d} batches | lr {:02.2f} | ms/batch {:5.2f} | '
+                        'loss {:5.2f} | ppl {:8.2f}'.format(
+                    epoch, batch, len(train_data) // args.bptt, lr,
+                    elapsed * 1000 / args.log_interval, cur_loss, math.exp(cur_loss)))
             total_loss = 0
             start_time = time.time()
         if args.dry_run:
@@ -216,11 +263,12 @@ try:
         epoch_start_time = time.time()
         train()
         val_loss = evaluate(val_data)
-        print('-' * 89)
-        print('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
-                'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
-                                           val_loss, math.exp(val_loss)))
-        print('-' * 89)
+        if args.verbose:
+            print('-' * 89)
+            print('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
+                    'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
+                                               val_loss, math.exp(val_loss)))
+            print('-' * 89)
         # Save the model if the validation loss is the best we've seen so far.
         if not best_val_loss or val_loss < best_val_loss:
             with open(args.save, 'wb') as f:

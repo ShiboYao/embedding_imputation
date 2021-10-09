@@ -1,13 +1,59 @@
+import string
 import sys
-vocab_path = sys.argv[1]
-embed_set = sys.argv[2] #glove or bioword
+import os
 
-if embed_set == 'glove':
-    dic = {"glove": "./pretrained_embeds/glove.6B.100d.txt"}
-elif embed_set == 'bioword': 
-    dic = {"bioword":"./pretrained_embeds/BioWordVec_PubMed_MIMICIII_d200.txt"}
-else:
-    raise ValueError('wrong pretrained embedding name')
+
+NUM_SAMPLES = int(sys.argv[1])
+base_path = './data/sampled_{}'.format(NUM_SAMPLES)
+vocab_path = os.path.join(base_path, 'pubmed_vocab_{}.txt'.format(NUM_SAMPLES))
+corpus_path = os.path.join(base_path, 'pubmed_corpus_{}.txt'.format(NUM_SAMPLES))
+
+### Samples the first N lines from pubmed texts, removes punctuation and saves vocabulary.
+
+def sample_pubmed(NUM_SAMPLES):
+    print('sampling the first {} lines...'.format(NUM_SAMPLES))
+    
+    if not os.path.exists(base_path): os.makedirs(base_path)
+    if not os.path.exists(os.path.join(base_path, 'LSI_embeds')): os.makedirs(os.path.join(base_path, 'LSI_embeds'))
+    if not os.path.exists(os.path.join(base_path, 'APPNP_embeds')): os.makedirs(os.path.join(base_path, 'APPNP_embeds'))
+    if not os.path.exists(os.path.join(base_path, 'graphs')): os.makedirs(os.path.join(base_path, 'graphs'))
+        
+    #Sample the first few lines, remove punctuation only
+    lines = []
+    with open('./data/pubmed_sentence_nltk.txt', 'r') as f:
+        for i in range(NUM_SAMPLES):
+            line = f.readline()
+            #in the provided pytorch example, they keep the punctuation, so putting space around punctuation. 
+            #line = line.translate(str.maketrans({key: " {} ".format(key) for key in string.punctuation}))
+            #replace punctuation with white space
+            #line = line.translate(str.maketrans('', '', string.punctuation))
+            lines.append(line)
+
+    with open(corpus_path, 'w') as f:
+        f.writelines(lines)
+    print('sampled corpus saved at ' + corpus_path)
+
+    ######## Find and save unique tokens ########
+
+    vocab = set()
+    for line in lines:
+        tokens = line.split()
+        for token in tokens:
+            if token not in vocab:
+                vocab.add(token)
+
+    print('{} unique words in corpus'.format(len(vocab)))
+
+    with open(vocab_path, 'w') as f:
+        for token in list(vocab):
+            f.write(token + '\n')
+
+    print('vocabulary saved at ' + vocab_path)
+        
+dic = {"glove": "./pretrained_embeds/glove.6B.200d.txt",
+       "google": "./pretrained_embeds/GoogleNews-vectors-negative300.txt",
+       "bioword": "./pretrained_embeds/BioWordVec_PubMed_MIMICIII_d200.txt",
+       "fast": "./pretrained_embeds/wiki-news-300d-1M.vec"}
     
 def read_word_list(path):
     with open(path) as f:
@@ -26,21 +72,33 @@ def read_embedding(name):
     return dict(zip(words,embed))
 
 
-def build_data(names):
-    embed = [read_embedding(n) for n in names]
-    words = set(read_word_list(vocab_path))
-    word_sets = [set(e.keys()) for e in embed]
-    word_sets.append(words)
-    words = set.intersection(*word_sets)
-    with open("./data/word_list_{}.txt".format(embed_set), 'w') as f:
-        f.write('\n'.join(words))
-        print("Word list saved.")
-    embed = [[w + ' ' + e[w] for w in words] for e in embed]
-    for i in range(len(names)):
-        with open("./data/{}_embeds.txt".format(names[i]), 'w') as f:
-            f.write('\n'.join(embed[i]))
-            print(names[i]+" saved.")
+def build_data(names, pubmed_vocab_path):
+    pubmed_words = set(read_word_list(pubmed_vocab_path))
+    
+    for name in names:
+        embed_dict = read_embedding(name)
+        word_set = set(embed_dict.keys())
+        words = pubmed_words.intersection(word_set)
+        embed = [w + ' ' + embed_dict[w] for w in words]
 
+        with open(os.path.join(base_path, "{}_embeds.txt".format(name)), 'w') as f:
+            f.write('\n'.join(embed))
+            print(name+" saved.")
 
 if __name__ == "__main__":
-    build_data(list(dic.keys()))
+    sample_pubmed(NUM_SAMPLES)           
+    build_data(dic.keys(), vocab_path)
+    
+    with open(corpus_path, 'r') as f:
+        lines = f.readlines()
+    
+    n = len(lines)
+
+    with open(os.path.join(base_path, 'train.txt'), 'w') as f:
+        f.writelines(lines[:int(n*0.8)])
+    with open(os.path.join(base_path, 'valid.txt'), 'w') as f:
+        f.writelines(lines[int(n*0.8):int(n*0.9)])
+    with open(os.path.join(base_path, 'test.txt'), 'w') as f:
+        f.writelines(lines[int(n*0.9):])
+        
+    print('corpus split into train-val-test and saved.')

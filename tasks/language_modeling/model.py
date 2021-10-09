@@ -6,11 +6,17 @@ import torch.nn.functional as F
 class RNNModel(nn.Module):
     """Container module with an encoder, a recurrent module, and a decoder."""
 
-    def __init__(self, rnn_type, ntoken, ninp, nhid, nlayers, dropout=0.5, tie_weights=False):
+    def __init__(self, W, rnn_type, ntoken, ninp, nhid, nlayers, dropout=0.5, tie_weights=False):
         super(RNNModel, self).__init__()
         self.ntoken = ntoken
         self.drop = nn.Dropout(dropout)
-        self.encoder = nn.Embedding(ntoken, ninp)
+        
+        #self.encoder = nn.Embedding(ntoken, ninp)
+        W = torch.FloatTensor(W)
+        self.encoder = nn.Embedding(W.shape[0], W.shape[1], padding_idx=0)
+        self.encoder.weight.data = W.clone()#.detach()
+        self.encoder.weight.requires_grad=False
+        
         if rnn_type in ['LSTM', 'GRU']:
             self.rnn = getattr(nn, rnn_type)(ninp, nhid, nlayers, dropout=dropout)
         else:
@@ -41,7 +47,7 @@ class RNNModel(nn.Module):
 
     def init_weights(self):
         initrange = 0.1
-        nn.init.uniform_(self.encoder.weight, -initrange, initrange)
+        #nn.init.uniform_(self.encoder.weight, -initrange, initrange)
         nn.init.zeros_(self.decoder.weight)
         nn.init.uniform_(self.decoder.weight, -initrange, initrange)
 
