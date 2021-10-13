@@ -107,7 +107,7 @@ if __name__ == "__main__":
     torch.manual_seed(args.seed)
     if args.cuda:
         torch.cuda.manual_seed(args.seed)
-    show_params(args)
+    #show_params(args)
     # Build a word graph using the affinity matrix
     adj, features, labels, y, idx_train = load_data(args.aff, args.base, args.delta)
     features = torch.FloatTensor(features)
