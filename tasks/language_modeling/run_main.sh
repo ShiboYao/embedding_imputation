@@ -1,7 +1,7 @@
 for seed in {21..30}
 do
 
-for base in fast #glove fast google
+for base in glove fast google
 do
 
 echo BASE: seed = $seed , base = $base

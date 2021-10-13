@@ -6,8 +6,11 @@
 First, you will need to download and place the pretrained embeddings into the `pretrained_embeds` folder.
 
 [GloVe](https://nlp.stanford.edu/projects/glove/): glove.6B.zip
+
 [Word2Vec](https://code.google.com/archive/p/word2vec/): 
+
 [FastText](https://fasttext.cc/docs/en/english-vectors.html):(wiki-news-300d-1M.vec.zip)
+
 [BioWordVec](https://github.com/ncbi-nlp/BioSentVec): 
 
 You can use `convert_bin_to_txt.py` to convert .bin files to .txt files for BioWordVec and FastText
@@ -43,7 +46,16 @@ APPNP: `python train_appnp.py --base=<base> --aff=bioword --p=<p> --seed=<seed> 
 
 After the imputation, the embeddings will be saved to be used in the LSTM model.
 
-Replace <base> (google, glove or fast), <delta> (an integer), <seed> (an integer) and corpus_size(20000) with the desired values.
+Replace:
+base: "google", "glove" or "fast"
+delta: an integer (8)
+seed: an integer to set seed (1)
+corpus_size: number of sampled lines (20000)
+p: number of iterations in APPNP (10)
+alpha: as defined in APPNP (0.1)
+
+with the desired values.
+
 You can also utilize `impute_all.sh` to impute all at the same time.
 
 ## Training an LSTM model
@@ -58,5 +70,12 @@ APPNP: `python main.py --embed_path=data/sampled_<corpus_size>/APPNP_embeds/APPN
 
 You can also use `run_main.sh` to run all of them at the same time. Replace the values in brackets as desired
 
+Replace:
+base: "google", "glove" or "fast"
+delta: an integer (8)
+seed: an integer to set seed (1)
+corpus_size: number of sampled lines (20000)
+p: number of iterations in APPNP (10)
+alpha: as defined in APPNP (0.1)
 
-
+omit `--cuda` if you want to run using CPU.
