@@ -8,7 +8,7 @@ from utils import *
 import multiprocessing as mp
 
 
-def load_data(aff, semantic, delta, ita=1e-4, spanning=True, n_jobs=-1):
+def load_data(aff, semantic, delta, spanning=True, n_jobs=-1):
     """Build the adjacency matrix, node features and ids dictionary."""
     total_cpu = mp.cpu_count()
     if type(n_jobs) is not int or n_jobs < -1 or n_jobs > total_cpu:

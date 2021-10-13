@@ -31,12 +31,16 @@ parser.add_argument('--hidden', type=int, default=600,
 parser.add_argument('--dropout', type=float, default=0.,
                     help='Dropout rate (1 - keep probability).')
 parser.add_argument('--batch_size', type=int, default=400, help='batch size')
-parser.add_argument('--p', type=int, default=10,
-                            help='Number of propagation.')
+parser.add_argument('--p', type=int, default=2,
+                    help='Number of propagation.')
 parser.add_argument('--alpha', type=float, default=0.1,
-                            help='Teleport strength.')
-parser.add_argument('--delta', type=int, default=8,
+                    help='Teleport strength.')
+parser.add_argument('--delta', type=int, default=10,
                     help='node degree setting in MST-KNN graph')
+parser.add_argument('--anchor', type=int, default=1,
+                    help='whether use anchorGraph')
+parser.add_argument('--m', type=int, default=200,
+                    help='number of anchors')
 parser.add_argument('--base', type=str, default='google',
                     help='base embedding: google, glove, fasttext')
 parser.add_argument('--aff', type=str, default='glove',
@@ -79,9 +83,9 @@ if __name__ == "__main__":
     torch.manual_seed(args.seed)
     if args.cuda:
         torch.cuda.manual_seed(args.seed)
-    show_params(args)
+    #show_params(args)
     # Build a word graph using the affinity matrix
-    adj, features, labels, idx_train, idx_valid, idx_test, words = load_data(args.aff, args.base, args.delta)
+    adj, features, labels, idx_train, idx_valid, idx_test, words = load_data(args.aff, args.base, args.delta, anchor=bool(args.anchor), m=args.m)
     features = torch.FloatTensor(features)
     labels = torch.FloatTensor(labels)
     #adj = sparse_mx_to_torch_sparse_tensor(adj)
