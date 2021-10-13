@@ -42,7 +42,7 @@ Then, to create the graphs, run `python save_graphs.py`
 
 To impute the missing embeddings you need to run:
 
-* LSI: `python imputation_lsi.py <base> bioword <delta> ./data/sampled_20000/LSI_embeds <seed> <corpus_size>`
+* LSI: `python imputation_lsi.py <base> bioword <delta> ./data/sampled_<corpus_size>/LSI_embeds <seed> <corpus_size>`
 * GCN: `python train_gcn.py <base> --aff=bioword --seed=<seed> --corpus_size=<corpus_size>`
 * APPNP: `python train_appnp.py --base=<base> --aff=bioword --p=<p> --seed=<seed> --corpus_size=<corpus_size>`
 
