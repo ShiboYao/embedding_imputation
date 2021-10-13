@@ -1,4 +1,4 @@
-## Combining the power iteration method and neural net to address the embedding imputation problem. ##
+## Embedding Imputation using Personalized Propagation with Neural Predictions ##
 
 
 ### Requirements: ###
@@ -17,7 +17,7 @@ python train.py
 
 cd tasks/regression
 
-python imputation.py google glove 8 42
+python imputation.py google glove 8 42 1 200
 
 python train.py
 
