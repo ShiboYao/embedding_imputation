@@ -15,7 +15,7 @@ First, you will need to download and place the pretrained embeddings into the `p
 
 You can use `convert_bin_to_txt.py` to convert .bin files to .txt files for BioWordVec and FastText
 
-Then you need to download the preprocessed PubMed texts from [here] https://github.com/ncbi-nlp/bluebert and place them under data.
+Then you need to download the preprocessed PubMed texts from [here] https://github.com/ncbi-nlp/bluebert and place them under the `data` folder.
 
 Your directory should look like:
 
