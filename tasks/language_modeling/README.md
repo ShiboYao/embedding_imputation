@@ -5,13 +5,13 @@
 
 First, you will need to download and place the pretrained embeddings into the `pretrained_embeds` folder.
 
-*[GloVe](https://nlp.stanford.edu/projects/glove/): glove.6B.zip
+* [GloVe](https://nlp.stanford.edu/projects/glove/): glove.6B.zip
 
-*[Word2Vec](https://code.google.com/archive/p/word2vec/): 
+* [Word2Vec](https://code.google.com/archive/p/word2vec/): 
 
-*[FastText](https://fasttext.cc/docs/en/english-vectors.html):(wiki-news-300d-1M.vec.zip)
+* [FastText](https://fasttext.cc/docs/en/english-vectors.html):(wiki-news-300d-1M.vec.zip)
 
-*[BioWordVec](https://github.com/ncbi-nlp/BioSentVec): 
+* [BioWordVec](https://github.com/ncbi-nlp/BioSentVec): 
 
 You can use `convert_bin_to_txt.py` to convert .bin files to .txt files for BioWordVec and FastText
 
